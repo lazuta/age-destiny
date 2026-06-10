@@ -4,74 +4,29 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Privacy Policy — Age Destiny</title>
-  <style>
-    :root {
-      color-scheme: light dark;
-      --bg: #f6f7f9;
-      --card: #ffffff;
-      --text: #1a1d21;
-      --muted: #5c6570;
-      --accent: #2563eb;
-      --border: #e4e8ee;
-    }
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --bg: #0f1114;
-        --card: #171a1f;
-        --text: #eef1f5;
-        --muted: #9aa3ad;
-        --accent: #60a5fa;
-        --border: #2a3038;
-      }
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-      line-height: 1.6;
-      color: var(--text);
-      background: var(--bg);
-    }
-    main {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 32px 20px 48px;
-    }
-    .card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 28px 24px;
-    }
-    h1 {
-      margin: 0 0 8px;
-      font-size: 1.75rem;
-      line-height: 1.2;
-    }
-    .meta {
-      margin: 0 0 24px;
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-    h2 {
-      margin: 28px 0 10px;
-      font-size: 1.1rem;
-    }
-    p, li { color: var(--text); }
-    ul { padding-left: 1.25rem; }
-    a { color: var(--accent); }
-    footer {
-      margin-top: 24px;
-      color: var(--muted);
-      font-size: 0.9rem;
-    }
-  </style>
+  <link rel="icon" href="logo.png" type="image/png">
+  <link rel="stylesheet" href="site.css">
 </head>
 <body>
-  <main>
+  <div class="wrap">
+    <header class="site-header">
+      <a class="brand" href="index.html">
+        <img src="logo.png" width="52" height="52" alt="Age Destiny">
+        <span class="brand-text">
+          <span class="brand-name">Age Destiny</span>
+          <span class="brand-sub">Travel · Map · Play</span>
+        </span>
+      </a>
+      <nav class="nav" aria-label="Site">
+        <a href="index.html">Home</a>
+        <a href="support.html">Support</a>
+        <a href="privacy.html" class="active">Privacy</a>
+      </nav>
+    </header>
+
     <article class="card">
-      <h1>Privacy Policy</h1>
-      <p class="meta">Age Destiny · Last updated: June 9, 2026</p>
+      <h1 class="page-title">Privacy Policy</h1>
+      <p class="page-meta">Last updated: June 9, 2026</p>
 
       <p>
         Age Destiny (&ldquo;the App&rdquo;) is developed by Soluxe. This policy explains what
@@ -142,11 +97,10 @@
         <a href="mailto:support@soluxe.by">support@soluxe.by</a>
       </p>
 
-      <footer>
+      <footer class="site-footer">
         <p>© 2026 Soluxe. All rights reserved.</p>
-        <p><a href="support.html">Support</a></p>
       </footer>
     </article>
-  </main>
+  </div>
 </body>
 </html>
