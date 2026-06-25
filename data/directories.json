@@ -1,0 +1,4556 @@
+[
+  {
+    "id": "intl_phone_codes",
+    "title": "International Phone Codes",
+    "titleRu": "Телефонные коды стран",
+    "description": "Travel the world through country calling codes.",
+    "descriptionRu": "Путешествие по миру по телефонным кодам стран.",
+    "iconEmoji": "📞",
+    "inputType": "age",
+    "codePrefix": "+",
+    "items": [
+      {
+        "code": "1",
+        "title": "USA / Canada",
+        "titleRu": "США / Канада",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.8951,
+          "longitude": -77.0364
+        }
+      },
+      {
+        "code": "2",
+        "title": "Mexico",
+        "titleRu": "Мексика",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "3",
+        "title": "Brazil",
+        "titleRu": "Бразилия",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -15.7801,
+          "longitude": -47.9292
+        }
+      },
+      {
+        "code": "4",
+        "title": "Argentina",
+        "titleRu": "Аргентина",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -34.6037,
+          "longitude": -58.3816
+        }
+      },
+      {
+        "code": "5",
+        "title": "Chile",
+        "titleRu": "Чили",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -33.4489,
+          "longitude": -70.6693
+        }
+      },
+      {
+        "code": "6",
+        "title": "Colombia",
+        "titleRu": "Колумбия",
+        "countryCode": "CO",
+        "coordinates": {
+          "latitude": 4.711,
+          "longitude": -74.0721
+        }
+      },
+      {
+        "code": "7",
+        "title": "Russia",
+        "titleRu": "Россия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "8",
+        "title": "Venezuela",
+        "titleRu": "Венесуэла",
+        "countryCode": "VE",
+        "coordinates": {
+          "latitude": 10.4806,
+          "longitude": -66.9036
+        }
+      },
+      {
+        "code": "9",
+        "title": "Ecuador",
+        "titleRu": "Эквадор",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -0.1807,
+          "longitude": -78.4678
+        }
+      },
+      {
+        "code": "10",
+        "title": "Bolivia",
+        "titleRu": "Боливия",
+        "countryCode": "BO",
+        "coordinates": {
+          "latitude": -16.4897,
+          "longitude": -68.1193
+        }
+      },
+      {
+        "code": "11",
+        "title": "Paraguay",
+        "titleRu": "Парагвай",
+        "countryCode": "PY",
+        "coordinates": {
+          "latitude": -25.2637,
+          "longitude": -57.5759
+        }
+      },
+      {
+        "code": "12",
+        "title": "Uruguay",
+        "titleRu": "Уругвай",
+        "countryCode": "UY",
+        "coordinates": {
+          "latitude": -34.9011,
+          "longitude": -56.1645
+        }
+      },
+      {
+        "code": "13",
+        "title": "Panama",
+        "titleRu": "Панама",
+        "countryCode": "PA",
+        "coordinates": {
+          "latitude": 8.9824,
+          "longitude": -79.5199
+        }
+      },
+      {
+        "code": "14",
+        "title": "Costa Rica",
+        "titleRu": "Коста-Рика",
+        "countryCode": "CR",
+        "coordinates": {
+          "latitude": 9.9281,
+          "longitude": -84.0907
+        }
+      },
+      {
+        "code": "15",
+        "title": "Guatemala",
+        "titleRu": "Гватемала",
+        "countryCode": "GT",
+        "coordinates": {
+          "latitude": 14.6349,
+          "longitude": -90.5069
+        }
+      },
+      {
+        "code": "16",
+        "title": "Honduras",
+        "titleRu": "Гондuras",
+        "countryCode": "HN",
+        "coordinates": {
+          "latitude": 14.0723,
+          "longitude": -87.1921
+        }
+      },
+      {
+        "code": "17",
+        "title": "Nicaragua",
+        "titleRu": "Никарагуа",
+        "countryCode": "NI",
+        "coordinates": {
+          "latitude": 12.1149,
+          "longitude": -86.2362
+        }
+      },
+      {
+        "code": "18",
+        "title": "El Salvador",
+        "titleRu": "Сальвадор",
+        "countryCode": "SV",
+        "coordinates": {
+          "latitude": 13.6929,
+          "longitude": -89.2182
+        }
+      },
+      {
+        "code": "19",
+        "title": "Jamaica",
+        "titleRu": "Ямайка",
+        "countryCode": "JM",
+        "coordinates": {
+          "latitude": 18.0179,
+          "longitude": -76.8099
+        }
+      },
+      {
+        "code": "20",
+        "title": "Egypt",
+        "titleRu": "Египет",
+        "countryCode": "EG",
+        "coordinates": {
+          "latitude": 30.0444,
+          "longitude": 31.2357
+        }
+      },
+      {
+        "code": "21",
+        "title": "Dominican Rep.",
+        "titleRu": "Доминикана",
+        "countryCode": "DO",
+        "coordinates": {
+          "latitude": 18.4861,
+          "longitude": -69.9312
+        }
+      },
+      {
+        "code": "22",
+        "title": "Puerto Rico",
+        "titleRu": "Пуэрто-Рико",
+        "countryCode": "PR",
+        "coordinates": {
+          "latitude": 18.4655,
+          "longitude": -66.1057
+        }
+      },
+      {
+        "code": "23",
+        "title": "Iceland",
+        "titleRu": "Исландия",
+        "countryCode": "IS",
+        "coordinates": {
+          "latitude": 64.1466,
+          "longitude": -21.9426
+        }
+      },
+      {
+        "code": "24",
+        "title": "Ireland",
+        "titleRu": "Ирландия",
+        "countryCode": "IE",
+        "coordinates": {
+          "latitude": 53.3498,
+          "longitude": -6.2603
+        }
+      },
+      {
+        "code": "25",
+        "title": "Portugal",
+        "titleRu": "Португалия",
+        "countryCode": "PT",
+        "coordinates": {
+          "latitude": 38.7223,
+          "longitude": -9.1393
+        }
+      },
+      {
+        "code": "26",
+        "title": "Monaco",
+        "titleRu": "Монако",
+        "countryCode": "MC",
+        "coordinates": {
+          "latitude": 43.7384,
+          "longitude": 7.4246
+        }
+      },
+      {
+        "code": "27",
+        "title": "South Africa",
+        "titleRu": "ЮАР",
+        "countryCode": "ZA",
+        "coordinates": {
+          "latitude": -25.7479,
+          "longitude": 28.2293
+        }
+      },
+      {
+        "code": "28",
+        "title": "Malta",
+        "titleRu": "Мальта",
+        "countryCode": "MT",
+        "coordinates": {
+          "latitude": 35.8989,
+          "longitude": 14.5146
+        }
+      },
+      {
+        "code": "29",
+        "title": "Cyprus",
+        "titleRu": "Кипр",
+        "countryCode": "CY",
+        "coordinates": {
+          "latitude": 35.1856,
+          "longitude": 33.3823
+        }
+      },
+      {
+        "code": "30",
+        "title": "Greece",
+        "titleRu": "Греция",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "31",
+        "title": "Netherlands",
+        "titleRu": "Нидерланды",
+        "countryCode": "NL",
+        "coordinates": {
+          "latitude": 52.3676,
+          "longitude": 4.9041
+        }
+      },
+      {
+        "code": "32",
+        "title": "Belgium",
+        "titleRu": "Бельгия",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 50.8503,
+          "longitude": 4.3517
+        }
+      },
+      {
+        "code": "33",
+        "title": "France",
+        "titleRu": "Франция",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "34",
+        "title": "Spain",
+        "titleRu": "Испания",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 40.4637,
+          "longitude": -3.7492
+        }
+      },
+      {
+        "code": "35",
+        "title": "Serbia",
+        "titleRu": "Сербия",
+        "countryCode": "RS",
+        "coordinates": {
+          "latitude": 44.7866,
+          "longitude": 20.4489
+        }
+      },
+      {
+        "code": "36",
+        "title": "Hungary",
+        "titleRu": "Венгрия",
+        "countryCode": "HU",
+        "coordinates": {
+          "latitude": 47.4979,
+          "longitude": 19.0402
+        }
+      },
+      {
+        "code": "37",
+        "title": "Slovenia",
+        "titleRu": "Словения",
+        "countryCode": "SI",
+        "coordinates": {
+          "latitude": 46.0569,
+          "longitude": 14.5058
+        }
+      },
+      {
+        "code": "38",
+        "title": "Slovakia",
+        "titleRu": "Словакия",
+        "countryCode": "SK",
+        "coordinates": {
+          "latitude": 48.1486,
+          "longitude": 17.1077
+        }
+      },
+      {
+        "code": "39",
+        "title": "Italy",
+        "titleRu": "Италия",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        }
+      },
+      {
+        "code": "40",
+        "title": "Romania",
+        "titleRu": "Румыния",
+        "countryCode": "RO",
+        "coordinates": {
+          "latitude": 44.4268,
+          "longitude": 26.1025
+        }
+      },
+      {
+        "code": "41",
+        "title": "Switzerland",
+        "titleRu": "Швейцария",
+        "countryCode": "CH",
+        "coordinates": {
+          "latitude": 46.9481,
+          "longitude": 7.4474
+        }
+      },
+      {
+        "code": "42",
+        "title": "San Marino",
+        "titleRu": "Сан-Марино",
+        "countryCode": "SM",
+        "coordinates": {
+          "latitude": 43.9424,
+          "longitude": 12.4578
+        }
+      },
+      {
+        "code": "43",
+        "title": "Austria",
+        "titleRu": "Австрия",
+        "countryCode": "AT",
+        "coordinates": {
+          "latitude": 48.2082,
+          "longitude": 16.3738
+        }
+      },
+      {
+        "code": "44",
+        "title": "United Kingdom",
+        "titleRu": "Великобритания",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "45",
+        "title": "Denmark",
+        "titleRu": "Дания",
+        "countryCode": "DK",
+        "coordinates": {
+          "latitude": 55.6761,
+          "longitude": 12.5683
+        }
+      },
+      {
+        "code": "46",
+        "title": "Sweden",
+        "titleRu": "Швеция",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "47",
+        "title": "Norway",
+        "titleRu": "Норвегия",
+        "countryCode": "NO",
+        "coordinates": {
+          "latitude": 59.9139,
+          "longitude": 10.7522
+        }
+      },
+      {
+        "code": "48",
+        "title": "Poland",
+        "titleRu": "Польша",
+        "countryCode": "PL",
+        "coordinates": {
+          "latitude": 52.2297,
+          "longitude": 21.0122
+        }
+      },
+      {
+        "code": "49",
+        "title": "Germany",
+        "titleRu": "Германия",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 52.52,
+          "longitude": 13.405
+        }
+      },
+      {
+        "code": "50",
+        "title": "Guernsey",
+        "titleRu": "Гернси",
+        "countryCode": "GG",
+        "coordinates": {
+          "latitude": 49.4657,
+          "longitude": -2.5853
+        }
+      },
+      {
+        "code": "51",
+        "title": "Peru",
+        "titleRu": "Перу",
+        "countryCode": "PE",
+        "coordinates": {
+          "latitude": -12.0464,
+          "longitude": -77.0428
+        }
+      },
+      {
+        "code": "52",
+        "title": "Mexico",
+        "titleRu": "Мексика",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "53",
+        "title": "Cuba",
+        "titleRu": "Куба",
+        "countryCode": "CU",
+        "coordinates": {
+          "latitude": 23.1136,
+          "longitude": -82.3666
+        }
+      },
+      {
+        "code": "54",
+        "title": "Argentina",
+        "titleRu": "Аргентина",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -34.6037,
+          "longitude": -58.3816
+        }
+      },
+      {
+        "code": "55",
+        "title": "Brazil",
+        "titleRu": "Бразилия",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -15.7801,
+          "longitude": -47.9292
+        }
+      },
+      {
+        "code": "56",
+        "title": "Chile",
+        "titleRu": "Чили",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -33.4489,
+          "longitude": -70.6693
+        }
+      },
+      {
+        "code": "57",
+        "title": "Colombia",
+        "titleRu": "Колумбия",
+        "countryCode": "CO",
+        "coordinates": {
+          "latitude": 4.711,
+          "longitude": -74.0721
+        }
+      },
+      {
+        "code": "58",
+        "title": "Venezuela",
+        "titleRu": "Венесуэла",
+        "countryCode": "VE",
+        "coordinates": {
+          "latitude": 10.4806,
+          "longitude": -66.9036
+        }
+      },
+      {
+        "code": "59",
+        "title": "Micronesia",
+        "titleRu": "Микронезия",
+        "countryCode": "FM",
+        "coordinates": {
+          "latitude": 6.9147,
+          "longitude": 158.161
+        }
+      },
+      {
+        "code": "60",
+        "title": "Malaysia",
+        "titleRu": "Малайзия",
+        "countryCode": "MY",
+        "coordinates": {
+          "latitude": 3.139,
+          "longitude": 101.6869
+        }
+      },
+      {
+        "code": "61",
+        "title": "Australia",
+        "titleRu": "Австралия",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -35.2809,
+          "longitude": 149.13
+        }
+      },
+      {
+        "code": "62",
+        "title": "Indonesia",
+        "titleRu": "Индонезия",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -6.2088,
+          "longitude": 106.8456
+        }
+      },
+      {
+        "code": "63",
+        "title": "Philippines",
+        "titleRu": "Филиппины",
+        "countryCode": "PH",
+        "coordinates": {
+          "latitude": 14.5995,
+          "longitude": 120.9842
+        }
+      },
+      {
+        "code": "64",
+        "title": "New Zealand",
+        "titleRu": "Новая Зеландия",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -41.2865,
+          "longitude": 174.7762
+        }
+      },
+      {
+        "code": "65",
+        "title": "Singapore",
+        "titleRu": "Сингапур",
+        "countryCode": "SG",
+        "coordinates": {
+          "latitude": 1.3521,
+          "longitude": 103.8198
+        }
+      },
+      {
+        "code": "66",
+        "title": "Thailand",
+        "titleRu": "Таиланд",
+        "countryCode": "TH",
+        "coordinates": {
+          "latitude": 13.7563,
+          "longitude": 100.5018
+        }
+      },
+      {
+        "code": "67",
+        "title": "Bhutan",
+        "titleRu": "Бутан",
+        "countryCode": "BT",
+        "coordinates": {
+          "latitude": 27.4728,
+          "longitude": 89.639
+        }
+      },
+      {
+        "code": "68",
+        "title": "Bangladesh",
+        "titleRu": "Бангладеш",
+        "countryCode": "BD",
+        "coordinates": {
+          "latitude": 23.8103,
+          "longitude": 90.4125
+        }
+      },
+      {
+        "code": "69",
+        "title": "Maldives",
+        "titleRu": "Мальдивы",
+        "countryCode": "MV",
+        "coordinates": {
+          "latitude": 4.1755,
+          "longitude": 73.5093
+        }
+      },
+      {
+        "code": "70",
+        "title": "Afghanistan",
+        "titleRu": "Афганистан",
+        "countryCode": "AF",
+        "coordinates": {
+          "latitude": 34.5553,
+          "longitude": 69.2075
+        }
+      },
+      {
+        "code": "71",
+        "title": "Mongolia",
+        "titleRu": "Монголия",
+        "countryCode": "MN",
+        "coordinates": {
+          "latitude": 47.8864,
+          "longitude": 106.9057
+        }
+      },
+      {
+        "code": "72",
+        "title": "North Korea",
+        "titleRu": "КНДР",
+        "countryCode": "KP",
+        "coordinates": {
+          "latitude": 39.0392,
+          "longitude": 125.7625
+        }
+      },
+      {
+        "code": "73",
+        "title": "Taiwan",
+        "titleRu": "Тайвань",
+        "countryCode": "TW",
+        "coordinates": {
+          "latitude": 25.033,
+          "longitude": 121.5654
+        }
+      },
+      {
+        "code": "74",
+        "title": "Hong Kong",
+        "titleRu": "Гонконг",
+        "countryCode": "HK",
+        "coordinates": {
+          "latitude": 22.3193,
+          "longitude": 114.1694
+        }
+      },
+      {
+        "code": "75",
+        "title": "Macau",
+        "titleRu": "Макао",
+        "countryCode": "MO",
+        "coordinates": {
+          "latitude": 22.1987,
+          "longitude": 113.5439
+        }
+      },
+      {
+        "code": "76",
+        "title": "Cambodia",
+        "titleRu": "Камбodja",
+        "countryCode": "KH",
+        "coordinates": {
+          "latitude": 11.5564,
+          "longitude": 104.9282
+        }
+      },
+      {
+        "code": "77",
+        "title": "Laos",
+        "titleRu": "Лаос",
+        "countryCode": "LA",
+        "coordinates": {
+          "latitude": 17.9757,
+          "longitude": 102.6331
+        }
+      },
+      {
+        "code": "78",
+        "title": "Brunei",
+        "titleRu": "Бруней",
+        "countryCode": "BN",
+        "coordinates": {
+          "latitude": 4.9031,
+          "longitude": 114.9398
+        }
+      },
+      {
+        "code": "79",
+        "title": "East Timor",
+        "titleRu": "Вост. Тимор",
+        "countryCode": "TL",
+        "coordinates": {
+          "latitude": -8.5569,
+          "longitude": 125.5603
+        }
+      },
+      {
+        "code": "80",
+        "title": "Malaysia",
+        "titleRu": "Малайзия",
+        "countryCode": "MY",
+        "coordinates": {
+          "latitude": 3.139,
+          "longitude": 101.6869
+        }
+      },
+      {
+        "code": "81",
+        "title": "Japan",
+        "titleRu": "Япония",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "82",
+        "title": "South Korea",
+        "titleRu": "Южная Корея",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "83",
+        "title": "Qatar",
+        "titleRu": "Катар",
+        "countryCode": "QA",
+        "coordinates": {
+          "latitude": 25.2854,
+          "longitude": 51.531
+        }
+      },
+      {
+        "code": "84",
+        "title": "Vietnam",
+        "titleRu": "Вьетнам",
+        "countryCode": "VN",
+        "coordinates": {
+          "latitude": 21.0285,
+          "longitude": 105.8542
+        }
+      },
+      {
+        "code": "85",
+        "title": "Kuwait",
+        "titleRu": "Кувейт",
+        "countryCode": "KW",
+        "coordinates": {
+          "latitude": 29.3759,
+          "longitude": 47.9774
+        }
+      },
+      {
+        "code": "86",
+        "title": "China",
+        "titleRu": "Китай",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9042,
+          "longitude": 116.4074
+        }
+      },
+      {
+        "code": "87",
+        "title": "Yemen",
+        "titleRu": "Йемен",
+        "countryCode": "YE",
+        "coordinates": {
+          "latitude": 15.3694,
+          "longitude": 44.191
+        }
+      },
+      {
+        "code": "88",
+        "title": "Jordan",
+        "titleRu": "Иордания",
+        "countryCode": "JO",
+        "coordinates": {
+          "latitude": 31.9454,
+          "longitude": 35.9284
+        }
+      },
+      {
+        "code": "89",
+        "title": "Lebanon",
+        "titleRu": "Ливан",
+        "countryCode": "LB",
+        "coordinates": {
+          "latitude": 33.8938,
+          "longitude": 35.5018
+        }
+      },
+      {
+        "code": "90",
+        "title": "Turkey",
+        "titleRu": "Турция",
+        "countryCode": "TR",
+        "coordinates": {
+          "latitude": 39.9334,
+          "longitude": 32.8597
+        }
+      },
+      {
+        "code": "91",
+        "title": "India",
+        "titleRu": "Индия",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 28.6139,
+          "longitude": 77.209
+        }
+      },
+      {
+        "code": "92",
+        "title": "Pakistan",
+        "titleRu": "Пакистан",
+        "countryCode": "PK",
+        "coordinates": {
+          "latitude": 33.6844,
+          "longitude": 73.0479
+        }
+      },
+      {
+        "code": "93",
+        "title": "Palestine",
+        "titleRu": "Палестина",
+        "countryCode": "PS",
+        "coordinates": {
+          "latitude": 31.9522,
+          "longitude": 35.2332
+        }
+      },
+      {
+        "code": "94",
+        "title": "Sri Lanka",
+        "titleRu": "Шри-Ланка",
+        "countryCode": "LK",
+        "coordinates": {
+          "latitude": 6.9271,
+          "longitude": 79.8612
+        }
+      },
+      {
+        "code": "95",
+        "title": "Myanmar",
+        "titleRu": "Мьянма",
+        "countryCode": "MM",
+        "coordinates": {
+          "latitude": 16.8661,
+          "longitude": 96.1951
+        }
+      },
+      {
+        "code": "96",
+        "title": "Kenya",
+        "titleRu": "Кения",
+        "countryCode": "KE",
+        "coordinates": {
+          "latitude": -1.2921,
+          "longitude": 36.8219
+        }
+      },
+      {
+        "code": "97",
+        "title": "Tanzania",
+        "titleRu": "Танзания",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -6.7924,
+          "longitude": 39.2083
+        }
+      },
+      {
+        "code": "98",
+        "title": "Iran",
+        "titleRu": "Иран",
+        "countryCode": "IR",
+        "coordinates": {
+          "latitude": 35.6892,
+          "longitude": 51.389
+        }
+      },
+      {
+        "code": "99",
+        "title": "Rwanda",
+        "titleRu": "Руанда",
+        "countryCode": "RW",
+        "coordinates": {
+          "latitude": -1.9403,
+          "longitude": 29.8739
+        }
+      },
+      {
+        "code": "100",
+        "title": "Ghana",
+        "titleRu": "Гана",
+        "countryCode": "GH",
+        "coordinates": {
+          "latitude": 5.6037,
+          "longitude": -0.187
+        }
+      },
+      {
+        "code": "101",
+        "title": "Senegal",
+        "titleRu": "Сенегал",
+        "countryCode": "SN",
+        "coordinates": {
+          "latitude": 14.7167,
+          "longitude": -17.4677
+        }
+      },
+      {
+        "code": "102",
+        "title": "Ivory Coast",
+        "titleRu": "Кот-д'Ивуар",
+        "countryCode": "CI",
+        "coordinates": {
+          "latitude": 5.36,
+          "longitude": -4.0083
+        }
+      },
+      {
+        "code": "103",
+        "title": "Cameroon",
+        "titleRu": "Кamerun",
+        "countryCode": "CM",
+        "coordinates": {
+          "latitude": 3.848,
+          "longitude": 11.5021
+        }
+      },
+      {
+        "code": "104",
+        "title": "Angola",
+        "titleRu": "Анgola",
+        "countryCode": "AO",
+        "coordinates": {
+          "latitude": -8.839,
+          "longitude": 13.2894
+        }
+      },
+      {
+        "code": "105",
+        "title": "Mozambique",
+        "titleRu": "Мозамбик",
+        "countryCode": "MZ",
+        "coordinates": {
+          "latitude": -25.9692,
+          "longitude": 32.5732
+        }
+      },
+      {
+        "code": "106",
+        "title": "Zimbabwe",
+        "titleRu": "Зимbabwe",
+        "countryCode": "ZW",
+        "coordinates": {
+          "latitude": -17.8252,
+          "longitude": 31.0335
+        }
+      },
+      {
+        "code": "107",
+        "title": "Zambia",
+        "titleRu": "Замбия",
+        "countryCode": "ZM",
+        "coordinates": {
+          "latitude": -15.3875,
+          "longitude": 28.3228
+        }
+      },
+      {
+        "code": "108",
+        "title": "Botswana",
+        "titleRu": "Botswana",
+        "countryCode": "BW",
+        "coordinates": {
+          "latitude": -24.6282,
+          "longitude": 25.9231
+        }
+      },
+      {
+        "code": "109",
+        "title": "Namibia",
+        "titleRu": "Namibia",
+        "countryCode": "NA",
+        "coordinates": {
+          "latitude": -22.5609,
+          "longitude": 17.0658
+        }
+      },
+      {
+        "code": "110",
+        "title": "Madagascar",
+        "titleRu": "Madagascar",
+        "countryCode": "MG",
+        "coordinates": {
+          "latitude": -18.8792,
+          "longitude": 47.5079
+        }
+      },
+      {
+        "code": "111",
+        "title": "Mauritius",
+        "titleRu": "Mauritius",
+        "countryCode": "MU",
+        "coordinates": {
+          "latitude": -20.1609,
+          "longitude": 57.5012
+        }
+      },
+      {
+        "code": "112",
+        "title": "Seychelles",
+        "titleRu": "Seychelles",
+        "countryCode": "SC",
+        "coordinates": {
+          "latitude": -4.6191,
+          "longitude": 55.4513
+        }
+      },
+      {
+        "code": "113",
+        "title": "Morocco",
+        "titleRu": "Morocco",
+        "countryCode": "MA",
+        "coordinates": {
+          "latitude": 33.9716,
+          "longitude": -6.8498
+        }
+      },
+      {
+        "code": "114",
+        "title": "Algeria",
+        "titleRu": "Algeria",
+        "countryCode": "DZ",
+        "coordinates": {
+          "latitude": 36.7538,
+          "longitude": 3.0588
+        }
+      },
+      {
+        "code": "115",
+        "title": "Tunisia",
+        "titleRu": "Tunisia",
+        "countryCode": "TN",
+        "coordinates": {
+          "latitude": 36.8065,
+          "longitude": 10.1815
+        }
+      },
+      {
+        "code": "116",
+        "title": "Libya",
+        "titleRu": "Libya",
+        "countryCode": "LY",
+        "coordinates": {
+          "latitude": 32.8872,
+          "longitude": 13.1913
+        }
+      },
+      {
+        "code": "117",
+        "title": "Sudan",
+        "titleRu": "Sudan",
+        "countryCode": "SD",
+        "coordinates": {
+          "latitude": 15.5007,
+          "longitude": 32.5599
+        }
+      },
+      {
+        "code": "118",
+        "title": "South Sudan",
+        "titleRu": "S. Sudan",
+        "countryCode": "SS",
+        "coordinates": {
+          "latitude": 4.8594,
+          "longitude": 31.5713
+        }
+      },
+      {
+        "code": "119",
+        "title": "Somalia",
+        "titleRu": "Somalia",
+        "countryCode": "SO",
+        "coordinates": {
+          "latitude": 2.0469,
+          "longitude": 45.3182
+        }
+      },
+      {
+        "code": "120",
+        "title": "Djibouti",
+        "titleRu": "Djibouti",
+        "countryCode": "DJ",
+        "coordinates": {
+          "latitude": 11.5721,
+          "longitude": 43.1456
+        }
+      }
+    ]
+  },
+  {
+    "id": "capitals",
+    "title": "Capitals",
+    "titleRu": "Столицы",
+    "description": "Your age picks a capital city on the map.",
+    "descriptionRu": "Возраст — столица на карте.",
+    "iconEmoji": "🏛",
+    "inputType": "age",
+    "codePrefix": "",
+    "items": [
+      {
+        "code": "1",
+        "title": "Washington",
+        "titleRu": "Вашингтон",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.8951,
+          "longitude": -77.0364
+        }
+      },
+      {
+        "code": "2",
+        "title": "Ottawa",
+        "titleRu": "Оттawa",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 45.4215,
+          "longitude": -75.6972
+        }
+      },
+      {
+        "code": "3",
+        "title": "Mexico City",
+        "titleRu": "Мехико",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "4",
+        "title": "Havana",
+        "titleRu": "Гavana",
+        "countryCode": "CU",
+        "coordinates": {
+          "latitude": 23.1136,
+          "longitude": -82.3666
+        }
+      },
+      {
+        "code": "5",
+        "title": "Guatemala City",
+        "titleRu": "Guatemala",
+        "countryCode": "GT",
+        "coordinates": {
+          "latitude": 14.6349,
+          "longitude": -90.5069
+        }
+      },
+      {
+        "code": "6",
+        "title": "San Salvador",
+        "titleRu": "San Salvador",
+        "countryCode": "SV",
+        "coordinates": {
+          "latitude": 13.6929,
+          "longitude": -89.2182
+        }
+      },
+      {
+        "code": "7",
+        "title": "Managua",
+        "titleRu": "Managua",
+        "countryCode": "NI",
+        "coordinates": {
+          "latitude": 12.1149,
+          "longitude": -86.2362
+        }
+      },
+      {
+        "code": "8",
+        "title": "San José",
+        "titleRu": "San José",
+        "countryCode": "CR",
+        "coordinates": {
+          "latitude": 9.9281,
+          "longitude": -84.0907
+        }
+      },
+      {
+        "code": "9",
+        "title": "Panama City",
+        "titleRu": "Panama",
+        "countryCode": "PA",
+        "coordinates": {
+          "latitude": 8.9824,
+          "longitude": -79.5199
+        }
+      },
+      {
+        "code": "10",
+        "title": "Bogotá",
+        "titleRu": "Bogotá",
+        "countryCode": "CO",
+        "coordinates": {
+          "latitude": 4.711,
+          "longitude": -74.0721
+        }
+      },
+      {
+        "code": "11",
+        "title": "Caracas",
+        "titleRu": "Caracas",
+        "countryCode": "VE",
+        "coordinates": {
+          "latitude": 10.4806,
+          "longitude": -66.9036
+        }
+      },
+      {
+        "code": "12",
+        "title": "Quito",
+        "titleRu": "Quito",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -0.1807,
+          "longitude": -78.4678
+        }
+      },
+      {
+        "code": "13",
+        "title": "Lima",
+        "titleRu": "Lima",
+        "countryCode": "PE",
+        "coordinates": {
+          "latitude": -12.0464,
+          "longitude": -77.0428
+        }
+      },
+      {
+        "code": "14",
+        "title": "La Paz",
+        "titleRu": "La Paz",
+        "countryCode": "BO",
+        "coordinates": {
+          "latitude": -16.4897,
+          "longitude": -68.1193
+        }
+      },
+      {
+        "code": "15",
+        "title": "Asunción",
+        "titleRu": "Asunción",
+        "countryCode": "PY",
+        "coordinates": {
+          "latitude": -25.2637,
+          "longitude": -57.5759
+        }
+      },
+      {
+        "code": "16",
+        "title": "Montevideo",
+        "titleRu": "Montevideo",
+        "countryCode": "UY",
+        "coordinates": {
+          "latitude": -34.9011,
+          "longitude": -56.1645
+        }
+      },
+      {
+        "code": "17",
+        "title": "Brasília",
+        "titleRu": "Brasília",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -15.7942,
+          "longitude": -47.8822
+        }
+      },
+      {
+        "code": "18",
+        "title": "Buenos Aires",
+        "titleRu": "Buenos Aires",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -34.6037,
+          "longitude": -58.3816
+        }
+      },
+      {
+        "code": "19",
+        "title": "Santiago",
+        "titleRu": "Santiago",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -33.4489,
+          "longitude": -70.6693
+        }
+      },
+      {
+        "code": "20",
+        "title": "London",
+        "titleRu": "Лондон",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "21",
+        "title": "Dublin",
+        "titleRu": "Dublin",
+        "countryCode": "IE",
+        "coordinates": {
+          "latitude": 53.3498,
+          "longitude": -6.2603
+        }
+      },
+      {
+        "code": "22",
+        "title": "Paris",
+        "titleRu": "Париж",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "23",
+        "title": "Madrid",
+        "titleRu": "Мадрид",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 40.4168,
+          "longitude": -3.7038
+        }
+      },
+      {
+        "code": "24",
+        "title": "Lisbon",
+        "titleRu": "Lisbon",
+        "countryCode": "PT",
+        "coordinates": {
+          "latitude": 38.7223,
+          "longitude": -9.1393
+        }
+      },
+      {
+        "code": "25",
+        "title": "Brussels",
+        "titleRu": "Brussels",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 50.8503,
+          "longitude": 4.3517
+        }
+      },
+      {
+        "code": "26",
+        "title": "Amsterdam",
+        "titleRu": "Amsterdam",
+        "countryCode": "NL",
+        "coordinates": {
+          "latitude": 52.3676,
+          "longitude": 4.9041
+        }
+      },
+      {
+        "code": "27",
+        "title": "Berlin",
+        "titleRu": "Берлин",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 52.52,
+          "longitude": 13.405
+        }
+      },
+      {
+        "code": "28",
+        "title": "Bern",
+        "titleRu": "Bern",
+        "countryCode": "CH",
+        "coordinates": {
+          "latitude": 46.9481,
+          "longitude": 7.4474
+        }
+      },
+      {
+        "code": "29",
+        "title": "Vienna",
+        "titleRu": "Vienna",
+        "countryCode": "AT",
+        "coordinates": {
+          "latitude": 48.2082,
+          "longitude": 16.3738
+        }
+      },
+      {
+        "code": "30",
+        "title": "Rome",
+        "titleRu": "Рим",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        }
+      },
+      {
+        "code": "31",
+        "title": "Prague",
+        "titleRu": "Prague",
+        "countryCode": "CZ",
+        "coordinates": {
+          "latitude": 50.0755,
+          "longitude": 14.4378
+        }
+      },
+      {
+        "code": "32",
+        "title": "Warsaw",
+        "titleRu": "Warsaw",
+        "countryCode": "PL",
+        "coordinates": {
+          "latitude": 52.2297,
+          "longitude": 21.0122
+        }
+      },
+      {
+        "code": "33",
+        "title": "Budapest",
+        "titleRu": "Budapest",
+        "countryCode": "HU",
+        "coordinates": {
+          "latitude": 47.4979,
+          "longitude": 19.0402
+        }
+      },
+      {
+        "code": "34",
+        "title": "Bucharest",
+        "titleRu": "Bucharest",
+        "countryCode": "RO",
+        "coordinates": {
+          "latitude": 44.4268,
+          "longitude": 26.1025
+        }
+      },
+      {
+        "code": "35",
+        "title": "Sofia",
+        "titleRu": "Sofia",
+        "countryCode": "BG",
+        "coordinates": {
+          "latitude": 42.6977,
+          "longitude": 23.3219
+        }
+      },
+      {
+        "code": "36",
+        "title": "Athens",
+        "titleRu": "Athens",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "37",
+        "title": "Belgrade",
+        "titleRu": "Belgrade",
+        "countryCode": "RS",
+        "coordinates": {
+          "latitude": 44.7866,
+          "longitude": 20.4489
+        }
+      },
+      {
+        "code": "38",
+        "title": "Zagreb",
+        "titleRu": "Zagreb",
+        "countryCode": "HR",
+        "coordinates": {
+          "latitude": 45.815,
+          "longitude": 15.9819
+        }
+      },
+      {
+        "code": "39",
+        "title": "Ljubljana",
+        "titleRu": "Ljubljana",
+        "countryCode": "SI",
+        "coordinates": {
+          "latitude": 46.0569,
+          "longitude": 14.5058
+        }
+      },
+      {
+        "code": "40",
+        "title": "Bratislava",
+        "titleRu": "Bratislava",
+        "countryCode": "SK",
+        "coordinates": {
+          "latitude": 48.1486,
+          "longitude": 17.1077
+        }
+      },
+      {
+        "code": "41",
+        "title": "Copenhagen",
+        "titleRu": "Copenhagen",
+        "countryCode": "DK",
+        "coordinates": {
+          "latitude": 55.6761,
+          "longitude": 12.5683
+        }
+      },
+      {
+        "code": "42",
+        "title": "Stockholm",
+        "titleRu": "Stockholm",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "43",
+        "title": "Oslo",
+        "titleRu": "Oslo",
+        "countryCode": "NO",
+        "coordinates": {
+          "latitude": 59.9139,
+          "longitude": 10.7522
+        }
+      },
+      {
+        "code": "44",
+        "title": "Helsinki",
+        "titleRu": "Helsinki",
+        "countryCode": "FI",
+        "coordinates": {
+          "latitude": 60.1699,
+          "longitude": 24.9384
+        }
+      },
+      {
+        "code": "45",
+        "title": "Tallinn",
+        "titleRu": "Tallinn",
+        "countryCode": "EE",
+        "coordinates": {
+          "latitude": 59.437,
+          "longitude": 24.7536
+        }
+      },
+      {
+        "code": "46",
+        "title": "Riga",
+        "titleRu": "Riga",
+        "countryCode": "LV",
+        "coordinates": {
+          "latitude": 56.9496,
+          "longitude": 24.1052
+        }
+      },
+      {
+        "code": "47",
+        "title": "Vilnius",
+        "titleRu": "Vilnius",
+        "countryCode": "LT",
+        "coordinates": {
+          "latitude": 54.6872,
+          "longitude": 25.2797
+        }
+      },
+      {
+        "code": "48",
+        "title": "Kyiv",
+        "titleRu": "Kyiv",
+        "countryCode": "UA",
+        "coordinates": {
+          "latitude": 50.4501,
+          "longitude": 30.5234
+        }
+      },
+      {
+        "code": "49",
+        "title": "Minsk",
+        "titleRu": "Минск",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.9006,
+          "longitude": 27.559
+        }
+      },
+      {
+        "code": "50",
+        "title": "Moscow",
+        "titleRu": "Москва",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "51",
+        "title": "Tbilisi",
+        "titleRu": "Tbilisi",
+        "countryCode": "GE",
+        "coordinates": {
+          "latitude": 41.7151,
+          "longitude": 44.8271
+        }
+      },
+      {
+        "code": "52",
+        "title": "Yerevan",
+        "titleRu": "Yerevan",
+        "countryCode": "AM",
+        "coordinates": {
+          "latitude": 40.1792,
+          "longitude": 44.4991
+        }
+      },
+      {
+        "code": "53",
+        "title": "Baku",
+        "titleRu": "Baku",
+        "countryCode": "AZ",
+        "coordinates": {
+          "latitude": 40.4093,
+          "longitude": 49.8671
+        }
+      },
+      {
+        "code": "54",
+        "title": "Ankara",
+        "titleRu": "Ankara",
+        "countryCode": "TR",
+        "coordinates": {
+          "latitude": 39.9334,
+          "longitude": 32.8597
+        }
+      },
+      {
+        "code": "55",
+        "title": "Nicosia",
+        "titleRu": "Nicosia",
+        "countryCode": "CY",
+        "coordinates": {
+          "latitude": 35.1856,
+          "longitude": 33.3823
+        }
+      },
+      {
+        "code": "56",
+        "title": "Beirut",
+        "titleRu": "Beirut",
+        "countryCode": "LB",
+        "coordinates": {
+          "latitude": 33.8938,
+          "longitude": 35.5018
+        }
+      },
+      {
+        "code": "57",
+        "title": "Damascus",
+        "titleRu": "Damascus",
+        "countryCode": "SY",
+        "coordinates": {
+          "latitude": 33.5138,
+          "longitude": 36.2765
+        }
+      },
+      {
+        "code": "58",
+        "title": "Amman",
+        "titleRu": "Amman",
+        "countryCode": "JO",
+        "coordinates": {
+          "latitude": 31.9454,
+          "longitude": 35.9284
+        }
+      },
+      {
+        "code": "59",
+        "title": "Jerusalem",
+        "titleRu": "Jerusalem",
+        "countryCode": "IL",
+        "coordinates": {
+          "latitude": 31.7683,
+          "longitude": 35.2137
+        }
+      },
+      {
+        "code": "60",
+        "title": "Riyadh",
+        "titleRu": "Riyadh",
+        "countryCode": "SA",
+        "coordinates": {
+          "latitude": 24.7136,
+          "longitude": 46.6753
+        }
+      },
+      {
+        "code": "61",
+        "title": "Doha",
+        "titleRu": "Doha",
+        "countryCode": "QA",
+        "coordinates": {
+          "latitude": 25.2854,
+          "longitude": 51.531
+        }
+      },
+      {
+        "code": "62",
+        "title": "Abu Dhabi",
+        "titleRu": "Abu Dhabi",
+        "countryCode": "AE",
+        "coordinates": {
+          "latitude": 24.4539,
+          "longitude": 54.3773
+        }
+      },
+      {
+        "code": "63",
+        "title": "Muscat",
+        "titleRu": "Muscat",
+        "countryCode": "OM",
+        "coordinates": {
+          "latitude": 23.588,
+          "longitude": 58.3829
+        }
+      },
+      {
+        "code": "64",
+        "title": "Sanaa",
+        "titleRu": "Sanaa",
+        "countryCode": "YE",
+        "coordinates": {
+          "latitude": 15.3694,
+          "longitude": 44.191
+        }
+      },
+      {
+        "code": "65",
+        "title": "Tehran",
+        "titleRu": "Tehran",
+        "countryCode": "IR",
+        "coordinates": {
+          "latitude": 35.6892,
+          "longitude": 51.389
+        }
+      },
+      {
+        "code": "66",
+        "title": "Baghdad",
+        "titleRu": "Baghdad",
+        "countryCode": "IQ",
+        "coordinates": {
+          "latitude": 33.3152,
+          "longitude": 44.3661
+        }
+      },
+      {
+        "code": "67",
+        "title": "Kuwait City",
+        "titleRu": "Kuwait",
+        "countryCode": "KW",
+        "coordinates": {
+          "latitude": 29.3759,
+          "longitude": 47.9774
+        }
+      },
+      {
+        "code": "68",
+        "title": "Manama",
+        "titleRu": "Manama",
+        "countryCode": "BH",
+        "coordinates": {
+          "latitude": 26.2285,
+          "longitude": 50.586
+        }
+      },
+      {
+        "code": "69",
+        "title": "Islamabad",
+        "titleRu": "Islamabad",
+        "countryCode": "PK",
+        "coordinates": {
+          "latitude": 33.6844,
+          "longitude": 73.0479
+        }
+      },
+      {
+        "code": "70",
+        "title": "Kabul",
+        "titleRu": "Kabul",
+        "countryCode": "AF",
+        "coordinates": {
+          "latitude": 34.5553,
+          "longitude": 69.2075
+        }
+      },
+      {
+        "code": "71",
+        "title": "New Delhi",
+        "titleRu": "Нью-Дели",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 28.6139,
+          "longitude": 77.209
+        }
+      },
+      {
+        "code": "72",
+        "title": "Kathmandu",
+        "titleRu": "Kathmandu",
+        "countryCode": "NP",
+        "coordinates": {
+          "latitude": 27.7172,
+          "longitude": 85.324
+        }
+      },
+      {
+        "code": "73",
+        "title": "Thimphu",
+        "titleRu": "Thimphu",
+        "countryCode": "BT",
+        "coordinates": {
+          "latitude": 27.4728,
+          "longitude": 89.639
+        }
+      },
+      {
+        "code": "74",
+        "title": "Dhaka",
+        "titleRu": "Dhaka",
+        "countryCode": "BD",
+        "coordinates": {
+          "latitude": 23.8103,
+          "longitude": 90.4125
+        }
+      },
+      {
+        "code": "75",
+        "title": "Colombo",
+        "titleRu": "Colombo",
+        "countryCode": "LK",
+        "coordinates": {
+          "latitude": 6.9271,
+          "longitude": 79.8612
+        }
+      },
+      {
+        "code": "76",
+        "title": "Malé",
+        "titleRu": "Malé",
+        "countryCode": "MV",
+        "coordinates": {
+          "latitude": 4.1755,
+          "longitude": 73.5093
+        }
+      },
+      {
+        "code": "77",
+        "title": "Bangkok",
+        "titleRu": "Bangkok",
+        "countryCode": "TH",
+        "coordinates": {
+          "latitude": 13.7563,
+          "longitude": 100.5018
+        }
+      },
+      {
+        "code": "78",
+        "title": "Vientiane",
+        "titleRu": "Vientiane",
+        "countryCode": "LA",
+        "coordinates": {
+          "latitude": 17.9757,
+          "longitude": 102.6331
+        }
+      },
+      {
+        "code": "79",
+        "title": "Phnom Penh",
+        "titleRu": "Phnom Penh",
+        "countryCode": "KH",
+        "coordinates": {
+          "latitude": 11.5564,
+          "longitude": 104.9282
+        }
+      },
+      {
+        "code": "80",
+        "title": "Hanoi",
+        "titleRu": "Hanoi",
+        "countryCode": "VN",
+        "coordinates": {
+          "latitude": 21.0285,
+          "longitude": 105.8542
+        }
+      },
+      {
+        "code": "81",
+        "title": "Naypyidaw",
+        "titleRu": "Naypyidaw",
+        "countryCode": "MM",
+        "coordinates": {
+          "latitude": 16.8661,
+          "longitude": 96.1951
+        }
+      },
+      {
+        "code": "82",
+        "title": "Kuala Lumpur",
+        "titleRu": "Kuala Lumpur",
+        "countryCode": "MY",
+        "coordinates": {
+          "latitude": 3.139,
+          "longitude": 101.6869
+        }
+      },
+      {
+        "code": "83",
+        "title": "Singapore",
+        "titleRu": "Singapore",
+        "countryCode": "SG",
+        "coordinates": {
+          "latitude": 1.3521,
+          "longitude": 103.8198
+        }
+      },
+      {
+        "code": "84",
+        "title": "Jakarta",
+        "titleRu": "Jakarta",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -6.2088,
+          "longitude": 106.8456
+        }
+      },
+      {
+        "code": "85",
+        "title": "Manila",
+        "titleRu": "Manila",
+        "countryCode": "PH",
+        "coordinates": {
+          "latitude": 14.5995,
+          "longitude": 120.9842
+        }
+      },
+      {
+        "code": "86",
+        "title": "Bandar Seri Begawan",
+        "titleRu": "Brunei",
+        "countryCode": "BN",
+        "coordinates": {
+          "latitude": 4.9031,
+          "longitude": 114.9398
+        }
+      },
+      {
+        "code": "87",
+        "title": "Dili",
+        "titleRu": "Dili",
+        "countryCode": "TL",
+        "coordinates": {
+          "latitude": -8.5569,
+          "longitude": 125.5603
+        }
+      },
+      {
+        "code": "88",
+        "title": "Beijing",
+        "titleRu": "Пекин",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9042,
+          "longitude": 116.4074
+        }
+      },
+      {
+        "code": "89",
+        "title": "Pyongyang",
+        "titleRu": "Pyongyang",
+        "countryCode": "KP",
+        "coordinates": {
+          "latitude": 39.0392,
+          "longitude": 125.7625
+        }
+      },
+      {
+        "code": "90",
+        "title": "Seoul",
+        "titleRu": "Seoul",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "91",
+        "title": "Tokyo",
+        "titleRu": "Токио",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "92",
+        "title": "Ulaanbaatar",
+        "titleRu": "Ulaanbaatar",
+        "countryCode": "MN",
+        "coordinates": {
+          "latitude": 47.8864,
+          "longitude": 106.9057
+        }
+      },
+      {
+        "code": "93",
+        "title": "Astana",
+        "titleRu": "Astana",
+        "countryCode": "KZ",
+        "coordinates": {
+          "latitude": 51.1694,
+          "longitude": 71.4491
+        }
+      },
+      {
+        "code": "94",
+        "title": "Tashkent",
+        "titleRu": "Tashkent",
+        "countryCode": "UZ",
+        "coordinates": {
+          "latitude": 41.2995,
+          "longitude": 69.2401
+        }
+      },
+      {
+        "code": "95",
+        "title": "Ashgabat",
+        "titleRu": "Ashgabat",
+        "countryCode": "TM",
+        "coordinates": {
+          "latitude": 37.9601,
+          "longitude": 58.3261
+        }
+      },
+      {
+        "code": "96",
+        "title": "Dushanbe",
+        "titleRu": "Dushanbe",
+        "countryCode": "TJ",
+        "coordinates": {
+          "latitude": 38.5598,
+          "longitude": 68.787
+        }
+      },
+      {
+        "code": "97",
+        "title": "Bishkek",
+        "titleRu": "Bishkek",
+        "countryCode": "KG",
+        "coordinates": {
+          "latitude": 42.8746,
+          "longitude": 74.5698
+        }
+      },
+      {
+        "code": "98",
+        "title": "Canberra",
+        "titleRu": "Canberra",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -35.2809,
+          "longitude": 149.13
+        }
+      },
+      {
+        "code": "99",
+        "title": "Wellington",
+        "titleRu": "Wellington",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -41.2865,
+          "longitude": 174.7762
+        }
+      },
+      {
+        "code": "100",
+        "title": "Port Moresby",
+        "titleRu": "Port Moresby",
+        "countryCode": "PG",
+        "coordinates": {
+          "latitude": -9.4438,
+          "longitude": 147.1803
+        }
+      },
+      {
+        "code": "101",
+        "title": "Suva",
+        "titleRu": "Suva",
+        "countryCode": "FJ",
+        "coordinates": {
+          "latitude": -18.1416,
+          "longitude": 178.4419
+        }
+      },
+      {
+        "code": "102",
+        "title": "Nairobi",
+        "titleRu": "Nairobi",
+        "countryCode": "KE",
+        "coordinates": {
+          "latitude": -1.2921,
+          "longitude": 36.8219
+        }
+      },
+      {
+        "code": "103",
+        "title": "Addis Ababa",
+        "titleRu": "Addis Ababa",
+        "countryCode": "ET",
+        "coordinates": {
+          "latitude": 9.032,
+          "longitude": 38.7469
+        }
+      },
+      {
+        "code": "104",
+        "title": "Kampala",
+        "titleRu": "Kampala",
+        "countryCode": "UG",
+        "coordinates": {
+          "latitude": 0.3476,
+          "longitude": 32.5825
+        }
+      },
+      {
+        "code": "105",
+        "title": "Kigali",
+        "titleRu": "Kigali",
+        "countryCode": "RW",
+        "coordinates": {
+          "latitude": -1.9403,
+          "longitude": 29.8739
+        }
+      },
+      {
+        "code": "106",
+        "title": "Dar es Salaam",
+        "titleRu": "Dar es Salaam",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -6.7924,
+          "longitude": 39.2083
+        }
+      },
+      {
+        "code": "107",
+        "title": "Lusaka",
+        "titleRu": "Lusaka",
+        "countryCode": "ZM",
+        "coordinates": {
+          "latitude": -15.3875,
+          "longitude": 28.3228
+        }
+      },
+      {
+        "code": "108",
+        "title": "Harare",
+        "titleRu": "Harare",
+        "countryCode": "ZW",
+        "coordinates": {
+          "latitude": -17.8252,
+          "longitude": 31.0335
+        }
+      },
+      {
+        "code": "109",
+        "title": "Maputo",
+        "titleRu": "Maputo",
+        "countryCode": "MZ",
+        "coordinates": {
+          "latitude": -25.9692,
+          "longitude": 32.5732
+        }
+      },
+      {
+        "code": "110",
+        "title": "Luanda",
+        "titleRu": "Luanda",
+        "countryCode": "AO",
+        "coordinates": {
+          "latitude": -8.839,
+          "longitude": 13.2894
+        }
+      },
+      {
+        "code": "111",
+        "title": "Windhoek",
+        "titleRu": "Windhoek",
+        "countryCode": "NA",
+        "coordinates": {
+          "latitude": -22.5609,
+          "longitude": 17.0658
+        }
+      },
+      {
+        "code": "112",
+        "title": "Gaborone",
+        "titleRu": "Gaborone",
+        "countryCode": "BW",
+        "coordinates": {
+          "latitude": -24.6282,
+          "longitude": 25.9231
+        }
+      },
+      {
+        "code": "113",
+        "title": "Pretoria",
+        "titleRu": "Pretoria",
+        "countryCode": "ZA",
+        "coordinates": {
+          "latitude": -25.7479,
+          "longitude": 28.2293
+        }
+      },
+      {
+        "code": "114",
+        "title": "Antananarivo",
+        "titleRu": "Antananarivo",
+        "countryCode": "MG",
+        "coordinates": {
+          "latitude": -18.8792,
+          "longitude": 47.5079
+        }
+      },
+      {
+        "code": "115",
+        "title": "Port Louis",
+        "titleRu": "Port Louis",
+        "countryCode": "MU",
+        "coordinates": {
+          "latitude": -20.1609,
+          "longitude": 57.5012
+        }
+      },
+      {
+        "code": "116",
+        "title": "Victoria",
+        "titleRu": "Victoria",
+        "countryCode": "SC",
+        "coordinates": {
+          "latitude": -4.6191,
+          "longitude": 55.4513
+        }
+      },
+      {
+        "code": "117",
+        "title": "Rabat",
+        "titleRu": "Rabat",
+        "countryCode": "MA",
+        "coordinates": {
+          "latitude": 33.9716,
+          "longitude": -6.8498
+        }
+      },
+      {
+        "code": "118",
+        "title": "Algiers",
+        "titleRu": "Algiers",
+        "countryCode": "DZ",
+        "coordinates": {
+          "latitude": 36.7538,
+          "longitude": 3.0588
+        }
+      },
+      {
+        "code": "119",
+        "title": "Tunis",
+        "titleRu": "Tunis",
+        "countryCode": "TN",
+        "coordinates": {
+          "latitude": 36.8065,
+          "longitude": 10.1815
+        }
+      },
+      {
+        "code": "120",
+        "title": "Tripoli",
+        "titleRu": "Tripoli",
+        "countryCode": "LY",
+        "coordinates": {
+          "latitude": 32.8872,
+          "longitude": 13.1913
+        }
+      }
+    ]
+  },
+  {
+    "id": "ru_regions",
+    "title": "Russia: Region Codes",
+    "titleRu": "Номера регионов России",
+    "description": "Federal subjects of Russia by automotive code (01–99).",
+    "descriptionRu": "Субъекты Российской Федерации по автомобильному коду (01–99).",
+    "iconEmoji": "🚘",
+    "inputType": "age",
+    "codePrefix": "",
+    "countryScope": [
+      "RU"
+    ],
+    "items": [
+      {
+        "code": "01",
+        "title": "Adygea Republic",
+        "titleRu": "Республика Адыгея",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 44.6098,
+          "longitude": 40.1006
+        }
+      },
+      {
+        "code": "02",
+        "title": "Bashkortostan Republic",
+        "titleRu": "Республика Башкортостан",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.7388,
+          "longitude": 55.9721
+        }
+      },
+      {
+        "code": "03",
+        "title": "Buryatia Republic",
+        "titleRu": "Республика Бурятия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.8246,
+          "longitude": 107.6044
+        }
+      },
+      {
+        "code": "04",
+        "title": "Altai Republic",
+        "titleRu": "Республика Алтай",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.9587,
+          "longitude": 85.9603
+        }
+      },
+      {
+        "code": "05",
+        "title": "Dagestan Republic",
+        "titleRu": "Республика Дагестан",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 42.9849,
+          "longitude": 47.5047
+        }
+      },
+      {
+        "code": "06",
+        "title": "Ingushetia Republic",
+        "titleRu": "Республика Ингушетия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 43.1714,
+          "longitude": 44.8108
+        }
+      },
+      {
+        "code": "07",
+        "title": "Kabardino-Balkar Republic",
+        "titleRu": "Кабардино-Балкарская Республика",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 43.4953,
+          "longitude": 43.6097
+        }
+      },
+      {
+        "code": "08",
+        "title": "Kalmykia Republic",
+        "titleRu": "Республика Калмыкия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 46.3088,
+          "longitude": 44.27
+        }
+      },
+      {
+        "code": "09",
+        "title": "Karachay-Cherkess Republic",
+        "titleRu": "Карачаево-Черкесская Республика",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 44.2271,
+          "longitude": 42.0464
+        }
+      },
+      {
+        "code": "10",
+        "title": "Karelia Republic",
+        "titleRu": "Республика Карелия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 61.7849,
+          "longitude": 34.3469
+        }
+      },
+      {
+        "code": "11",
+        "title": "Komi Republic",
+        "titleRu": "Республика Коми",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 61.6688,
+          "longitude": 50.8358
+        }
+      },
+      {
+        "code": "12",
+        "title": "Mari El Republic",
+        "titleRu": "Республика Марий Эл",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.6388,
+          "longitude": 47.8908
+        }
+      },
+      {
+        "code": "13",
+        "title": "Mordovia Republic",
+        "titleRu": "Республика Мордовия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.1838,
+          "longitude": 45.1749
+        }
+      },
+      {
+        "code": "14",
+        "title": "Sakha (Yakutia) Republic",
+        "titleRu": "Республика Саха (Якутия)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 62.0355,
+          "longitude": 129.6755
+        }
+      },
+      {
+        "code": "15",
+        "title": "North Ossetia – Alania",
+        "titleRu": "Северная Осетия — Алания",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 43.0211,
+          "longitude": 44.6818
+        }
+      },
+      {
+        "code": "16",
+        "title": "Tatarstan Republic",
+        "titleRu": "Республика Татарстан",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7903,
+          "longitude": 49.1347
+        }
+      },
+      {
+        "code": "17",
+        "title": "Tuva Republic",
+        "titleRu": "Республика Тыва",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.7191,
+          "longitude": 94.4377
+        }
+      },
+      {
+        "code": "18",
+        "title": "Udmurt Republic",
+        "titleRu": "Удмуртская Республика",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.8431,
+          "longitude": 53.2114
+        }
+      },
+      {
+        "code": "19",
+        "title": "Khakassia Republic",
+        "titleRu": "Республика Хакасия",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.7223,
+          "longitude": 91.4437
+        }
+      },
+      {
+        "code": "21",
+        "title": "Chuvash Republic",
+        "titleRu": "Чувашская Республика",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.1322,
+          "longitude": 47.2412
+        }
+      },
+      {
+        "code": "22",
+        "title": "Altai Krai",
+        "titleRu": "Алтайский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.3548,
+          "longitude": 83.7698
+        }
+      },
+      {
+        "code": "23",
+        "title": "Krasnodar Krai",
+        "titleRu": "Краснодарский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 45.0355,
+          "longitude": 38.9753
+        }
+      },
+      {
+        "code": "24",
+        "title": "Krasnoyarsk Krai",
+        "titleRu": "Красноярский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.0153,
+          "longitude": 92.8932
+        }
+      },
+      {
+        "code": "25",
+        "title": "Primorsky Krai",
+        "titleRu": "Приморский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 43.1056,
+          "longitude": 131.8735
+        }
+      },
+      {
+        "code": "26",
+        "title": "Stavropol Krai",
+        "titleRu": "Ставропольский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 45.0445,
+          "longitude": 41.969
+        }
+      },
+      {
+        "code": "27",
+        "title": "Khabarovsk Krai",
+        "titleRu": "Хабаровский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 48.4827,
+          "longitude": 135.0838
+        }
+      },
+      {
+        "code": "28",
+        "title": "Amur Oblast",
+        "titleRu": "Амурская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 50.2906,
+          "longitude": 127.5272
+        }
+      },
+      {
+        "code": "29",
+        "title": "Arkhangelsk Oblast",
+        "titleRu": "Архангельская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 64.5401,
+          "longitude": 40.5158
+        }
+      },
+      {
+        "code": "30",
+        "title": "Astrakhan Oblast",
+        "titleRu": "Астраханская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 46.3479,
+          "longitude": 48.0337
+        }
+      },
+      {
+        "code": "31",
+        "title": "Belgorod Oblast",
+        "titleRu": "Белгородская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 50.5953,
+          "longitude": 36.587
+        }
+      },
+      {
+        "code": "32",
+        "title": "Bryansk Oblast",
+        "titleRu": "Брянская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.2434,
+          "longitude": 34.364
+        }
+      },
+      {
+        "code": "33",
+        "title": "Vladimir Oblast",
+        "titleRu": "Владимирская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.129,
+          "longitude": 40.406
+        }
+      },
+      {
+        "code": "34",
+        "title": "Volgograd Oblast",
+        "titleRu": "Волгоградская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 48.708,
+          "longitude": 44.5133
+        }
+      },
+      {
+        "code": "35",
+        "title": "Vologda Oblast",
+        "titleRu": "Вологодская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 59.2205,
+          "longitude": 39.8915
+        }
+      },
+      {
+        "code": "36",
+        "title": "Voronezh Oblast",
+        "titleRu": "Воронежская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.672,
+          "longitude": 39.1843
+        }
+      },
+      {
+        "code": "37",
+        "title": "Ivanovo Oblast",
+        "titleRu": "Ивановская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.9974,
+          "longitude": 40.9837
+        }
+      },
+      {
+        "code": "38",
+        "title": "Irkutsk Oblast",
+        "titleRu": "Иркутская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 52.287,
+          "longitude": 104.305
+        }
+      },
+      {
+        "code": "39",
+        "title": "Kaliningrad Oblast",
+        "titleRu": "Калининградская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.7104,
+          "longitude": 20.4522
+        }
+      },
+      {
+        "code": "40",
+        "title": "Kaluga Oblast",
+        "titleRu": "Калужская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.5293,
+          "longitude": 36.2754
+        }
+      },
+      {
+        "code": "41",
+        "title": "Kamchatka Krai",
+        "titleRu": "Камчатский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.0234,
+          "longitude": 158.6431
+        }
+      },
+      {
+        "code": "42",
+        "title": "Kemerovo Oblast",
+        "titleRu": "Кемеровская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.3331,
+          "longitude": 86.0833
+        }
+      },
+      {
+        "code": "43",
+        "title": "Kirov Oblast",
+        "titleRu": "Кировская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 58.6035,
+          "longitude": 49.668
+        }
+      },
+      {
+        "code": "44",
+        "title": "Kostroma Oblast",
+        "titleRu": "Костромская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 57.7681,
+          "longitude": 40.9269
+        }
+      },
+      {
+        "code": "45",
+        "title": "Kurgan Oblast",
+        "titleRu": "Курганская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.45,
+          "longitude": 65.3408
+        }
+      },
+      {
+        "code": "46",
+        "title": "Kursk Oblast",
+        "titleRu": "Курская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.7373,
+          "longitude": 36.1873
+        }
+      },
+      {
+        "code": "47",
+        "title": "Leningrad Oblast",
+        "titleRu": "Ленинградская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 59.5644,
+          "longitude": 30.1281
+        }
+      },
+      {
+        "code": "48",
+        "title": "Lipetsk Oblast",
+        "titleRu": "Липецкая область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 52.6088,
+          "longitude": 39.5992
+        }
+      },
+      {
+        "code": "49",
+        "title": "Magadan Oblast",
+        "titleRu": "Магаданская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 59.5638,
+          "longitude": 150.8035
+        }
+      },
+      {
+        "code": "50",
+        "title": "Moscow Oblast",
+        "titleRu": "Московская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.8254,
+          "longitude": 37.3299
+        }
+      },
+      {
+        "code": "51",
+        "title": "Murmansk Oblast",
+        "titleRu": "Мурманская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 68.9585,
+          "longitude": 33.0827
+        }
+      },
+      {
+        "code": "52",
+        "title": "Nizhny Novgorod Oblast",
+        "titleRu": "Нижегородская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.2965,
+          "longitude": 43.9361
+        }
+      },
+      {
+        "code": "53",
+        "title": "Novgorod Oblast",
+        "titleRu": "Новгородская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 58.5215,
+          "longitude": 31.275
+        }
+      },
+      {
+        "code": "54",
+        "title": "Novosibirsk Oblast",
+        "titleRu": "Новосибирская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.0084,
+          "longitude": 82.9357
+        }
+      },
+      {
+        "code": "55",
+        "title": "Omsk Oblast",
+        "titleRu": "Омская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.9893,
+          "longitude": 73.3683
+        }
+      },
+      {
+        "code": "56",
+        "title": "Orenburg Oblast",
+        "titleRu": "Оренбургская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.7727,
+          "longitude": 55.0988
+        }
+      },
+      {
+        "code": "57",
+        "title": "Oryol Oblast",
+        "titleRu": "Орловская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 52.9685,
+          "longitude": 36.0693
+        }
+      },
+      {
+        "code": "58",
+        "title": "Penza Oblast",
+        "titleRu": "Пензенская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.1959,
+          "longitude": 45.0183
+        }
+      },
+      {
+        "code": "59",
+        "title": "Perm Krai",
+        "titleRu": "Пермский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 58.0105,
+          "longitude": 56.2502
+        }
+      },
+      {
+        "code": "60",
+        "title": "Pskov Oblast",
+        "titleRu": "Псковская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 57.8194,
+          "longitude": 28.3327
+        }
+      },
+      {
+        "code": "61",
+        "title": "Rostov Oblast",
+        "titleRu": "Ростовская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 47.2357,
+          "longitude": 39.7015
+        }
+      },
+      {
+        "code": "62",
+        "title": "Ryazan Oblast",
+        "titleRu": "Рязанская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.6296,
+          "longitude": 39.7423
+        }
+      },
+      {
+        "code": "63",
+        "title": "Samara Oblast",
+        "titleRu": "Самарская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.1959,
+          "longitude": 50.101
+        }
+      },
+      {
+        "code": "64",
+        "title": "Saratov Oblast",
+        "titleRu": "Саратовская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 51.5331,
+          "longitude": 46.0342
+        }
+      },
+      {
+        "code": "65",
+        "title": "Sakhalin Oblast",
+        "titleRu": "Сахалинская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 46.9588,
+          "longitude": 142.7387
+        }
+      },
+      {
+        "code": "66",
+        "title": "Sverdlovsk Oblast",
+        "titleRu": "Свердловская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.8389,
+          "longitude": 60.6057
+        }
+      },
+      {
+        "code": "67",
+        "title": "Smolensk Oblast",
+        "titleRu": "Смоленская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.782,
+          "longitude": 32.0401
+        }
+      },
+      {
+        "code": "68",
+        "title": "Tambov Oblast",
+        "titleRu": "Тамбовская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 52.7212,
+          "longitude": 41.4524
+        }
+      },
+      {
+        "code": "69",
+        "title": "Tver Oblast",
+        "titleRu": "Тверская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.8587,
+          "longitude": 35.9176
+        }
+      },
+      {
+        "code": "70",
+        "title": "Tomsk Oblast",
+        "titleRu": "Томская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.4847,
+          "longitude": 84.9482
+        }
+      },
+      {
+        "code": "71",
+        "title": "Tula Oblast",
+        "titleRu": "Тульская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.1961,
+          "longitude": 37.6182
+        }
+      },
+      {
+        "code": "72",
+        "title": "Tyumen Oblast",
+        "titleRu": "Тюменская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 57.153,
+          "longitude": 65.5343
+        }
+      },
+      {
+        "code": "73",
+        "title": "Ulyanovsk Oblast",
+        "titleRu": "Ульяновская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.3142,
+          "longitude": 48.4031
+        }
+      },
+      {
+        "code": "74",
+        "title": "Chelyabinsk Oblast",
+        "titleRu": "Челябинская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.1644,
+          "longitude": 61.4368
+        }
+      },
+      {
+        "code": "75",
+        "title": "Zabaykalsky Krai",
+        "titleRu": "Забайкальский край",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 52.0334,
+          "longitude": 113.4994
+        }
+      },
+      {
+        "code": "76",
+        "title": "Yaroslavl Oblast",
+        "titleRu": "Ярославская область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 57.6261,
+          "longitude": 39.8845
+        }
+      },
+      {
+        "code": "77",
+        "title": "Moscow",
+        "titleRu": "Москва",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "78",
+        "title": "Saint Petersburg",
+        "titleRu": "Санкт-Петербург",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 59.9311,
+          "longitude": 30.3609
+        }
+      },
+      {
+        "code": "79",
+        "title": "Jewish Autonomous Oblast",
+        "titleRu": "Еврейская автономная область",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 48.7944,
+          "longitude": 132.9214
+        }
+      },
+      {
+        "code": "82",
+        "title": "Republic of Crimea",
+        "titleRu": "Республика Крым",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 44.9521,
+          "longitude": 34.1024
+        }
+      },
+      {
+        "code": "83",
+        "title": "Nenets Autonomous Okrug",
+        "titleRu": "Ненецкий автономный округ",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 67.6404,
+          "longitude": 53.0067
+        }
+      },
+      {
+        "code": "86",
+        "title": "Khanty-Mansi AO — Yugra",
+        "titleRu": "Ханты-Мансийский АО — Югра",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 61.0042,
+          "longitude": 69.0019
+        }
+      },
+      {
+        "code": "87",
+        "title": "Chukotka Autonomous Okrug",
+        "titleRu": "Чукотский автономный округ",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 64.7314,
+          "longitude": 177.4915
+        }
+      },
+      {
+        "code": "89",
+        "title": "Yamalo-Nenets Autonomous Okrug",
+        "titleRu": "Ямало-Ненецкий автономный округ",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 66.5299,
+          "longitude": 66.6131
+        }
+      },
+      {
+        "code": "90",
+        "title": "Moscow Oblast (extra)",
+        "titleRu": "Московская область (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.8254,
+          "longitude": 37.3299
+        }
+      },
+      {
+        "code": "91",
+        "title": "Crimea (extra)",
+        "titleRu": "Республика Крым (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 44.9521,
+          "longitude": 34.1024
+        }
+      },
+      {
+        "code": "92",
+        "title": "Sevastopol",
+        "titleRu": "Севастополь",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 44.6166,
+          "longitude": 33.5254
+        }
+      },
+      {
+        "code": "93",
+        "title": "Krasnodar Krai (extra)",
+        "titleRu": "Краснодарский край (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 45.0355,
+          "longitude": 38.9753
+        }
+      },
+      {
+        "code": "95",
+        "title": "Chechen Republic",
+        "titleRu": "Чеченская Республика",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 43.3179,
+          "longitude": 45.6949
+        }
+      },
+      {
+        "code": "96",
+        "title": "Sverdlovsk Oblast (extra)",
+        "titleRu": "Свердловская область (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.8389,
+          "longitude": 60.6057
+        }
+      },
+      {
+        "code": "97",
+        "title": "Moscow (extra)",
+        "titleRu": "Москва (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "98",
+        "title": "Saint Petersburg (extra)",
+        "titleRu": "Санкт-Петербург (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 59.9311,
+          "longitude": 30.3609
+        }
+      },
+      {
+        "code": "99",
+        "title": "Moscow (extra)",
+        "titleRu": "Москва (доп.)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      }
+    ]
+  },
+  {
+    "id": "by_regions",
+    "title": "Belarus: Districts",
+    "titleRu": "Районы Беларуси",
+    "description": "118 administrative districts (raions), numbered 1–118 in Wikipedia alphabetical order.",
+    "descriptionRu": "118 административных районов, нумерация 1–118 по алфавитному списку Википедии.",
+    "iconEmoji": "🗺️",
+    "inputType": "age",
+    "codePrefix": "",
+    "countryScope": [
+      "BY"
+    ],
+    "items": [
+      {
+        "code": "1",
+        "title": "Baranovichi District",
+        "titleRu": "Барановичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.1167,
+          "longitude": 25.9833
+        }
+      },
+      {
+        "code": "2",
+        "title": "Belynichi District",
+        "titleRu": "Белыничский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.9956,
+          "longitude": 29.7096
+        }
+      },
+      {
+        "code": "3",
+        "title": "Berezino District",
+        "titleRu": "Березинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.8333,
+          "longitude": 28.9833
+        }
+      },
+      {
+        "code": "4",
+        "title": "Bereza District",
+        "titleRu": "Берёзовский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.55,
+          "longitude": 24.9833
+        }
+      },
+      {
+        "code": "5",
+        "title": "Berestovitsa District",
+        "titleRu": "Берестовицкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.1956,
+          "longitude": 24.0208
+        }
+      },
+      {
+        "code": "6",
+        "title": "Beshenkovichi District",
+        "titleRu": "Бешенковичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.0333,
+          "longitude": 29.45
+        }
+      },
+      {
+        "code": "7",
+        "title": "Bobruisk District",
+        "titleRu": "Бобруйский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.15,
+          "longitude": 29.2333
+        }
+      },
+      {
+        "code": "8",
+        "title": "Borisov District",
+        "titleRu": "Борисовский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.2333,
+          "longitude": 28.5
+        }
+      },
+      {
+        "code": "9",
+        "title": "Bragin District",
+        "titleRu": "Брагинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.7833,
+          "longitude": 30.2667
+        }
+      },
+      {
+        "code": "10",
+        "title": "Braslav District",
+        "titleRu": "Браславский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.6433,
+          "longitude": 27.0614
+        }
+      },
+      {
+        "code": "11",
+        "title": "Brest District",
+        "titleRu": "Брестский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.0847,
+          "longitude": 23.6569
+        }
+      },
+      {
+        "code": "12",
+        "title": "Buda-Koshelevo District",
+        "titleRu": "Буда-Кошелёвский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.7167,
+          "longitude": 30.5667
+        }
+      },
+      {
+        "code": "13",
+        "title": "Bykhov District",
+        "titleRu": "Быховский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.5261,
+          "longitude": 30.2358
+        }
+      },
+      {
+        "code": "14",
+        "title": "Verkhnedvinsk District",
+        "titleRu": "Верхнедвинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.7667,
+          "longitude": 27.9333
+        }
+      },
+      {
+        "code": "15",
+        "title": "Vetka District",
+        "titleRu": "Ветковский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.55,
+          "longitude": 31.1833
+        }
+      },
+      {
+        "code": "16",
+        "title": "Vileyka District",
+        "titleRu": "Вилейский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.4833,
+          "longitude": 26.9167
+        }
+      },
+      {
+        "code": "17",
+        "title": "Vitebsk District",
+        "titleRu": "Витебский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.1833,
+          "longitude": 30.1667
+        }
+      },
+      {
+        "code": "18",
+        "title": "Volkovysk District",
+        "titleRu": "Волковысский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.1667,
+          "longitude": 24.4667
+        }
+      },
+      {
+        "code": "19",
+        "title": "Volozhin District",
+        "titleRu": "Воложинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.0833,
+          "longitude": 26.5167
+        }
+      },
+      {
+        "code": "20",
+        "title": "Voronovo District",
+        "titleRu": "Вороновский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.15,
+          "longitude": 25.3167
+        }
+      },
+      {
+        "code": "21",
+        "title": "Gantsevichi District",
+        "titleRu": "Ганцевичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.7617,
+          "longitude": 26.4278
+        }
+      },
+      {
+        "code": "22",
+        "title": "Glubokoe District",
+        "titleRu": "Глубокский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.1333,
+          "longitude": 27.6833
+        }
+      },
+      {
+        "code": "23",
+        "title": "Glusk District",
+        "titleRu": "Глусский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.8911,
+          "longitude": 28.6886
+        }
+      },
+      {
+        "code": "24",
+        "title": "Gomel District",
+        "titleRu": "Гомельский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.4417,
+          "longitude": 30.9754
+        }
+      },
+      {
+        "code": "25",
+        "title": "Gorki District",
+        "titleRu": "Горецкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.2833,
+          "longitude": 30.9833
+        }
+      },
+      {
+        "code": "26",
+        "title": "Gorodok District",
+        "titleRu": "Городокский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.4667,
+          "longitude": 29.9833
+        }
+      },
+      {
+        "code": "27",
+        "title": "Grodno District",
+        "titleRu": "Гродненский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.6667,
+          "longitude": 23.8167
+        }
+      },
+      {
+        "code": "28",
+        "title": "Dzerzhinsk District",
+        "titleRu": "Дзержинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.6833,
+          "longitude": 27.1333
+        }
+      },
+      {
+        "code": "29",
+        "title": "Dobrush District",
+        "titleRu": "Добрушский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.4167,
+          "longitude": 31.3167
+        }
+      },
+      {
+        "code": "30",
+        "title": "Dokshitsy District",
+        "titleRu": "Докшицкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.8833,
+          "longitude": 27.7667
+        }
+      },
+      {
+        "code": "31",
+        "title": "Dribin District",
+        "titleRu": "Дрибинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.1194,
+          "longitude": 31.0931
+        }
+      },
+      {
+        "code": "32",
+        "title": "Drogichin District",
+        "titleRu": "Дрогичинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.1867,
+          "longitude": 25.1531
+        }
+      },
+      {
+        "code": "33",
+        "title": "Dubrovno District",
+        "titleRu": "Дубровенский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.5667,
+          "longitude": 30.6833
+        }
+      },
+      {
+        "code": "34",
+        "title": "Dyatlovo District",
+        "titleRu": "Дятловский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.45,
+          "longitude": 25.4
+        }
+      },
+      {
+        "code": "35",
+        "title": "Yelsk District",
+        "titleRu": "Ельский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.8167,
+          "longitude": 29.15
+        }
+      },
+      {
+        "code": "36",
+        "title": "Zhabinka District",
+        "titleRu": "Жабинковский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.2006,
+          "longitude": 24.0233
+        }
+      },
+      {
+        "code": "37",
+        "title": "Zhitkovichi District",
+        "titleRu": "Житковичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.2171,
+          "longitude": 27.8547
+        }
+      },
+      {
+        "code": "38",
+        "title": "Zhlobin District",
+        "titleRu": "Жлобинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.9,
+          "longitude": 30.0333
+        }
+      },
+      {
+        "code": "39",
+        "title": "Zelva District",
+        "titleRu": "Зельвенский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.15,
+          "longitude": 24.8167
+        }
+      },
+      {
+        "code": "40",
+        "title": "Ivanovo District",
+        "titleRu": "Ивановский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.1333,
+          "longitude": 25.55
+        }
+      },
+      {
+        "code": "41",
+        "title": "Ivacevichi District",
+        "titleRu": "Ивацевичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.7092,
+          "longitude": 25.3389
+        }
+      },
+      {
+        "code": "42",
+        "title": "Ivie District",
+        "titleRu": "Ивьевский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.9167,
+          "longitude": 25.7667
+        }
+      },
+      {
+        "code": "43",
+        "title": "Kalinkovichi District",
+        "titleRu": "Калинковичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.1333,
+          "longitude": 29.3333
+        }
+      },
+      {
+        "code": "44",
+        "title": "Kamenets District",
+        "titleRu": "Каменецкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.4028,
+          "longitude": 23.8083
+        }
+      },
+      {
+        "code": "45",
+        "title": "Kirovsk District",
+        "titleRu": "Кировский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.2686,
+          "longitude": 29.4736
+        }
+      },
+      {
+        "code": "46",
+        "title": "Kletsk District",
+        "titleRu": "Клецкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.0636,
+          "longitude": 26.6372
+        }
+      },
+      {
+        "code": "47",
+        "title": "Klimovichi District",
+        "titleRu": "Климовичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.6167,
+          "longitude": 31.95
+        }
+      },
+      {
+        "code": "48",
+        "title": "Klichev District",
+        "titleRu": "Кличевский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.4828,
+          "longitude": 29.3411
+        }
+      },
+      {
+        "code": "49",
+        "title": "Kobrin District",
+        "titleRu": "Кобринский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.2,
+          "longitude": 24.35
+        }
+      },
+      {
+        "code": "50",
+        "title": "Kopyl District",
+        "titleRu": "Копыльский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.15,
+          "longitude": 27.0917
+        }
+      },
+      {
+        "code": "51",
+        "title": "Korelichi District",
+        "titleRu": "Кореличский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.5664,
+          "longitude": 26.1425
+        }
+      },
+      {
+        "code": "52",
+        "title": "Korma District",
+        "titleRu": "Кормянский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.1291,
+          "longitude": 30.8106
+        }
+      },
+      {
+        "code": "53",
+        "title": "Kostyukovichi District",
+        "titleRu": "Костюковичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.3389,
+          "longitude": 32.0461
+        }
+      },
+      {
+        "code": "54",
+        "title": "Krasnopolye District",
+        "titleRu": "Краснопольский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.3333,
+          "longitude": 31.4022
+        }
+      },
+      {
+        "code": "55",
+        "title": "Krichev District",
+        "titleRu": "Кричевский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.7194,
+          "longitude": 31.7139
+        }
+      },
+      {
+        "code": "56",
+        "title": "Kruglyane District",
+        "titleRu": "Круглянский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.2479,
+          "longitude": 29.7966
+        }
+      },
+      {
+        "code": "57",
+        "title": "Krupki District",
+        "titleRu": "Крупский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.325,
+          "longitude": 29.1361
+        }
+      },
+      {
+        "code": "58",
+        "title": "Лельчицкий District",
+        "titleRu": "Лельчицкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.7858,
+          "longitude": 28.3247
+        }
+      },
+      {
+        "code": "59",
+        "title": "Lepel District",
+        "titleRu": "Лепельский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.875,
+          "longitude": 28.6944
+        }
+      },
+      {
+        "code": "60",
+        "title": "Лидский District",
+        "titleRu": "Лидский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.8872,
+          "longitude": 25.3028
+        }
+      },
+      {
+        "code": "61",
+        "title": "Liozno District",
+        "titleRu": "Лиозненский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.0167,
+          "longitude": 30.8
+        }
+      },
+      {
+        "code": "62",
+        "title": "Logoysk District",
+        "titleRu": "Логойский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.2,
+          "longitude": 27.85
+        }
+      },
+      {
+        "code": "63",
+        "title": "Лоевский District",
+        "titleRu": "Лоевский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.9333,
+          "longitude": 30.8011
+        }
+      },
+      {
+        "code": "64",
+        "title": "Luninets District",
+        "titleRu": "Лунинецкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.25,
+          "longitude": 26.8
+        }
+      },
+      {
+        "code": "65",
+        "title": "Lyuban District",
+        "titleRu": "Любанский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.8,
+          "longitude": 27.9944
+        }
+      },
+      {
+        "code": "66",
+        "title": "Lyakhovichi District",
+        "titleRu": "Ляховичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.0333,
+          "longitude": 26.2667
+        }
+      },
+      {
+        "code": "67",
+        "title": "Malorita District",
+        "titleRu": "Малоритский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.7972,
+          "longitude": 24.0808
+        }
+      },
+      {
+        "code": "68",
+        "title": "Минский District",
+        "titleRu": "Минский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.9022,
+          "longitude": 27.5619
+        }
+      },
+      {
+        "code": "69",
+        "title": "Miory District",
+        "titleRu": "Миорский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.6167,
+          "longitude": 27.6167
+        }
+      },
+      {
+        "code": "70",
+        "title": "Mogilev District",
+        "titleRu": "Могилёвский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.9167,
+          "longitude": 30.35
+        }
+      },
+      {
+        "code": "71",
+        "title": "Mozyr District",
+        "titleRu": "Мозырский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.05,
+          "longitude": 29.2333
+        }
+      },
+      {
+        "code": "72",
+        "title": "Molodechno District",
+        "titleRu": "Молодечненский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.3136,
+          "longitude": 26.8517
+        }
+      },
+      {
+        "code": "73",
+        "title": "Mosty District",
+        "titleRu": "Мостовский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.4,
+          "longitude": 24.5333
+        }
+      },
+      {
+        "code": "74",
+        "title": "Mstislavl District",
+        "titleRu": "Мстиславский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.0197,
+          "longitude": 31.7247
+        }
+      },
+      {
+        "code": "75",
+        "title": "Мядельский District",
+        "titleRu": "Мядельский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.875,
+          "longitude": 26.9333
+        }
+      },
+      {
+        "code": "76",
+        "title": "Narovlja District",
+        "titleRu": "Наровлянский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.8,
+          "longitude": 29.5
+        }
+      },
+      {
+        "code": "77",
+        "title": "Nesvizh District",
+        "titleRu": "Несвижский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.2188,
+          "longitude": 26.682
+        }
+      },
+      {
+        "code": "78",
+        "title": "Novogrudok District",
+        "titleRu": "Новогрудский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.5833,
+          "longitude": 25.8167
+        }
+      },
+      {
+        "code": "79",
+        "title": "Oktyabrsky District",
+        "titleRu": "Октябрьский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.6431,
+          "longitude": 28.8822
+        }
+      },
+      {
+        "code": "80",
+        "title": "Orsha District",
+        "titleRu": "Оршанский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.5117,
+          "longitude": 30.4253
+        }
+      },
+      {
+        "code": "81",
+        "title": "Osipovichi District",
+        "titleRu": "Осиповичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.3,
+          "longitude": 28.6333
+        }
+      },
+      {
+        "code": "82",
+        "title": "Островецкий District",
+        "titleRu": "Островецкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.6136,
+          "longitude": 25.9553
+        }
+      },
+      {
+        "code": "83",
+        "title": "Oshmyany District",
+        "titleRu": "Ошмянский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.425,
+          "longitude": 25.9375
+        }
+      },
+      {
+        "code": "84",
+        "title": "Petrikov District",
+        "titleRu": "Петриковский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.1333,
+          "longitude": 28.5
+        }
+      },
+      {
+        "code": "85",
+        "title": "Pinsk District",
+        "titleRu": "Пинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.1153,
+          "longitude": 26.1031
+        }
+      },
+      {
+        "code": "86",
+        "title": "Polotsk District",
+        "titleRu": "Полоцкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.4858,
+          "longitude": 28.7764
+        }
+      },
+      {
+        "code": "87",
+        "title": "Postavy District",
+        "titleRu": "Поставский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.1167,
+          "longitude": 26.8333
+        }
+      },
+      {
+        "code": "88",
+        "title": "Pruzhany District",
+        "titleRu": "Пружанский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.5567,
+          "longitude": 24.4644
+        }
+      },
+      {
+        "code": "89",
+        "title": "Pukhovichi District",
+        "titleRu": "Пуховичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.5167,
+          "longitude": 28.1417
+        }
+      },
+      {
+        "code": "90",
+        "title": "Rechitsa District",
+        "titleRu": "Речицкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.3639,
+          "longitude": 30.3947
+        }
+      },
+      {
+        "code": "91",
+        "title": "Rogachev District",
+        "titleRu": "Рогачёвский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.1,
+          "longitude": 30.05
+        }
+      },
+      {
+        "code": "92",
+        "title": "Rossony District",
+        "titleRu": "Россонский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.9042,
+          "longitude": 28.8147
+        }
+      },
+      {
+        "code": "93",
+        "title": "Svetlogorsk District",
+        "titleRu": "Светлогорский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.6333,
+          "longitude": 29.7333
+        }
+      },
+      {
+        "code": "94",
+        "title": "Свислочский District",
+        "titleRu": "Свислочский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.0333,
+          "longitude": 24.1
+        }
+      },
+      {
+        "code": "95",
+        "title": "Senno District",
+        "titleRu": "Сенненский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.8167,
+          "longitude": 29.6833
+        }
+      },
+      {
+        "code": "96",
+        "title": "Slavgorod District",
+        "titleRu": "Славгородский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.4453,
+          "longitude": 30.9964
+        }
+      },
+      {
+        "code": "97",
+        "title": "Slonim District",
+        "titleRu": "Слонимский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.0833,
+          "longitude": 25.3167
+        }
+      },
+      {
+        "code": "98",
+        "title": "Slutsk District",
+        "titleRu": "Слуцкий район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.0167,
+          "longitude": 27.55
+        }
+      },
+      {
+        "code": "99",
+        "title": "Smolevichi District",
+        "titleRu": "Смолевичский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.0302,
+          "longitude": 28.0897
+        }
+      },
+      {
+        "code": "100",
+        "title": "Smorgon District",
+        "titleRu": "Сморгонский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.4836,
+          "longitude": 26.4
+        }
+      },
+      {
+        "code": "101",
+        "title": "Soligorsk District",
+        "titleRu": "Солигорский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.7847,
+          "longitude": 27.535
+        }
+      },
+      {
+        "code": "102",
+        "title": "Staryya Dorogi District",
+        "titleRu": "Стародорожский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.0394,
+          "longitude": 28.265
+        }
+      },
+      {
+        "code": "103",
+        "title": "Stolbtsy District",
+        "titleRu": "Столбцовский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.4833,
+          "longitude": 26.7333
+        }
+      },
+      {
+        "code": "104",
+        "title": "Stolin District",
+        "titleRu": "Столинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.8833,
+          "longitude": 26.85
+        }
+      },
+      {
+        "code": "105",
+        "title": "Tolochin District",
+        "titleRu": "Толочинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.4167,
+          "longitude": 29.7
+        }
+      },
+      {
+        "code": "106",
+        "title": "Uzda District",
+        "titleRu": "Узденский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.4661,
+          "longitude": 27.2244
+        }
+      },
+      {
+        "code": "107",
+        "title": "Ushachi District",
+        "titleRu": "Ушачский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.1833,
+          "longitude": 28.6167
+        }
+      },
+      {
+        "code": "108",
+        "title": "Khoiniki District",
+        "titleRu": "Хойникский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 51.9,
+          "longitude": 29.9667
+        }
+      },
+      {
+        "code": "109",
+        "title": "Khotimsk District",
+        "titleRu": "Хотимский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.4083,
+          "longitude": 32.5722
+        }
+      },
+      {
+        "code": "110",
+        "title": "Chausy District",
+        "titleRu": "Чаусский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.8,
+          "longitude": 30.9667
+        }
+      },
+      {
+        "code": "111",
+        "title": "Chashniki District",
+        "titleRu": "Чашникский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.8533,
+          "longitude": 29.1647
+        }
+      },
+      {
+        "code": "112",
+        "title": "Cherven District",
+        "titleRu": "Червенский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.7078,
+          "longitude": 28.4322
+        }
+      },
+      {
+        "code": "113",
+        "title": "Cherikov District",
+        "titleRu": "Чериковский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.5667,
+          "longitude": 31.3667
+        }
+      },
+      {
+        "code": "114",
+        "title": "Чечерский District",
+        "titleRu": "Чечерский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 52.9167,
+          "longitude": 30.9167
+        }
+      },
+      {
+        "code": "115",
+        "title": "Sharkovshchina District",
+        "titleRu": "Шарковщинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.3667,
+          "longitude": 27.8667
+        }
+      },
+      {
+        "code": "116",
+        "title": "Shklov District",
+        "titleRu": "Шкловский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 54.2083,
+          "longitude": 30.2869
+        }
+      },
+      {
+        "code": "117",
+        "title": "Shumilino District",
+        "titleRu": "Шумилинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 55.3,
+          "longitude": 29.6
+        }
+      },
+      {
+        "code": "118",
+        "title": "Shchuchin District",
+        "titleRu": "Щучинский район",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.6044,
+          "longitude": 24.7425
+        }
+      }
+    ]
+  }
+]
