@@ -4552,5 +4552,4468 @@
         }
       }
     ]
+  },
+  {
+    "id": "us_states",
+    "title": "USA: States",
+    "titleRu": "Штаты США",
+    "description": "50 U.S. states in order of admission to the Union.",
+    "descriptionRu": "50 штатов США в порядке вступления в Союз.",
+    "iconEmoji": "🇺🇸",
+    "inputType": "age",
+    "codePrefix": "",
+    "countryScope": [
+      "US"
+    ],
+    "items": [
+      {
+        "code": "1",
+        "title": "Delaware",
+        "titleRu": "Делавэр",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.1582,
+          "longitude": -75.5244
+        }
+      },
+      {
+        "code": "2",
+        "title": "Pennsylvania",
+        "titleRu": "Пенсильвания",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 40.2732,
+          "longitude": -76.8867
+        }
+      },
+      {
+        "code": "3",
+        "title": "New Jersey",
+        "titleRu": "Нью-Джерси",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 40.2206,
+          "longitude": -74.7699
+        }
+      },
+      {
+        "code": "4",
+        "title": "Georgia",
+        "titleRu": "Джорджия",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 33.749,
+          "longitude": -84.388
+        }
+      },
+      {
+        "code": "5",
+        "title": "Connecticut",
+        "titleRu": "Коннектикут",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 41.764,
+          "longitude": -72.6823
+        }
+      },
+      {
+        "code": "6",
+        "title": "Massachusetts",
+        "titleRu": "Массачусетс",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 42.3601,
+          "longitude": -71.0589
+        }
+      },
+      {
+        "code": "7",
+        "title": "Maryland",
+        "titleRu": "Мэриленд",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.9784,
+          "longitude": -76.4922
+        }
+      },
+      {
+        "code": "8",
+        "title": "South Carolina",
+        "titleRu": "Южная Каролина",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0007,
+          "longitude": -81.0348
+        }
+      },
+      {
+        "code": "9",
+        "title": "New Hampshire",
+        "titleRu": "Нью-Гэмпшир",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 43.2081,
+          "longitude": -71.5376
+        }
+      },
+      {
+        "code": "10",
+        "title": "Virginia",
+        "titleRu": "Виргиния",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 37.5407,
+          "longitude": -77.436
+        }
+      },
+      {
+        "code": "11",
+        "title": "New York",
+        "titleRu": "Нью-Йорк",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 42.6526,
+          "longitude": -73.7562
+        }
+      },
+      {
+        "code": "12",
+        "title": "North Carolina",
+        "titleRu": "Северная Каролина",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 35.7796,
+          "longitude": -78.6382
+        }
+      },
+      {
+        "code": "13",
+        "title": "Rhode Island",
+        "titleRu": "Род-Айленд",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 41.824,
+          "longitude": -71.4128
+        }
+      },
+      {
+        "code": "14",
+        "title": "Vermont",
+        "titleRu": "Вермонт",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.2601,
+          "longitude": -72.5754
+        }
+      },
+      {
+        "code": "15",
+        "title": "Kentucky",
+        "titleRu": "Кентукки",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.1867,
+          "longitude": -84.8753
+        }
+      },
+      {
+        "code": "16",
+        "title": "Tennessee",
+        "titleRu": "Теннесси",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 36.1627,
+          "longitude": -86.7816
+        }
+      },
+      {
+        "code": "17",
+        "title": "Ohio",
+        "titleRu": "Огайо",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.9612,
+          "longitude": -82.9988
+        }
+      },
+      {
+        "code": "18",
+        "title": "Louisiana",
+        "titleRu": "Луизиана",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 30.4515,
+          "longitude": -91.1871
+        }
+      },
+      {
+        "code": "19",
+        "title": "Indiana",
+        "titleRu": "Индиана",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.7684,
+          "longitude": -86.1581
+        }
+      },
+      {
+        "code": "20",
+        "title": "Mississippi",
+        "titleRu": "Миссисипи",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 32.2988,
+          "longitude": -90.1848
+        }
+      },
+      {
+        "code": "21",
+        "title": "Illinois",
+        "titleRu": "Иллинойс",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.7817,
+          "longitude": -89.6501
+        }
+      },
+      {
+        "code": "22",
+        "title": "Alabama",
+        "titleRu": "Алабама",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 32.3668,
+          "longitude": -86.2999
+        }
+      },
+      {
+        "code": "23",
+        "title": "Maine",
+        "titleRu": "Мэн",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.3106,
+          "longitude": -69.7795
+        }
+      },
+      {
+        "code": "24",
+        "title": "Missouri",
+        "titleRu": "Миссури",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.5767,
+          "longitude": -92.1735
+        }
+      },
+      {
+        "code": "25",
+        "title": "Arkansas",
+        "titleRu": "Арканзас",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.7465,
+          "longitude": -92.2896
+        }
+      },
+      {
+        "code": "26",
+        "title": "Michigan",
+        "titleRu": "Мичиган",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 42.7335,
+          "longitude": -84.5555
+        }
+      },
+      {
+        "code": "27",
+        "title": "Florida",
+        "titleRu": "Флорида",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 30.4383,
+          "longitude": -84.2807
+        }
+      },
+      {
+        "code": "28",
+        "title": "Texas",
+        "titleRu": "Техас",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 30.2672,
+          "longitude": -97.7431
+        }
+      },
+      {
+        "code": "29",
+        "title": "Iowa",
+        "titleRu": "Айова",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 41.5868,
+          "longitude": -93.625
+        }
+      },
+      {
+        "code": "30",
+        "title": "Wisconsin",
+        "titleRu": "Висконсин",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 43.0747,
+          "longitude": -89.3841
+        }
+      },
+      {
+        "code": "31",
+        "title": "California",
+        "titleRu": "Калифорния",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.5816,
+          "longitude": -121.4944
+        }
+      },
+      {
+        "code": "32",
+        "title": "Minnesota",
+        "titleRu": "Миннесота",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.9553,
+          "longitude": -93.1022
+        }
+      },
+      {
+        "code": "33",
+        "title": "Oregon",
+        "titleRu": "Орегон",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.9429,
+          "longitude": -123.0351
+        }
+      },
+      {
+        "code": "34",
+        "title": "Kansas",
+        "titleRu": "Канзас",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.0473,
+          "longitude": -95.6752
+        }
+      },
+      {
+        "code": "35",
+        "title": "West Virginia",
+        "titleRu": "Западная Виргиния",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.3498,
+          "longitude": -81.6326
+        }
+      },
+      {
+        "code": "36",
+        "title": "Nevada",
+        "titleRu": "Невада",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.1638,
+          "longitude": -119.7674
+        }
+      },
+      {
+        "code": "37",
+        "title": "Nebraska",
+        "titleRu": "Небраска",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 40.8136,
+          "longitude": -96.7026
+        }
+      },
+      {
+        "code": "38",
+        "title": "Colorado",
+        "titleRu": "Колорадо",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 39.7392,
+          "longitude": -104.9903
+        }
+      },
+      {
+        "code": "39",
+        "title": "North Dakota",
+        "titleRu": "Северная Дакота",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 46.8083,
+          "longitude": -100.7837
+        }
+      },
+      {
+        "code": "40",
+        "title": "South Dakota",
+        "titleRu": "Южная Дакота",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.3683,
+          "longitude": -100.351
+        }
+      },
+      {
+        "code": "41",
+        "title": "Montana",
+        "titleRu": "Монтана",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 46.5958,
+          "longitude": -112.027
+        }
+      },
+      {
+        "code": "42",
+        "title": "Washington",
+        "titleRu": "Вашингтон",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 47.0379,
+          "longitude": -122.9007
+        }
+      },
+      {
+        "code": "43",
+        "title": "Idaho",
+        "titleRu": "Айдахо",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 43.615,
+          "longitude": -116.2023
+        }
+      },
+      {
+        "code": "44",
+        "title": "Wyoming",
+        "titleRu": "Вайоминг",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 41.14,
+          "longitude": -104.8202
+        }
+      },
+      {
+        "code": "45",
+        "title": "Utah",
+        "titleRu": "Юта",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 40.7608,
+          "longitude": -111.891
+        }
+      },
+      {
+        "code": "46",
+        "title": "Oklahoma",
+        "titleRu": "Оклахома",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 35.4676,
+          "longitude": -97.5164
+        }
+      },
+      {
+        "code": "47",
+        "title": "New Mexico",
+        "titleRu": "Нью-Мексико",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 35.687,
+          "longitude": -105.9378
+        }
+      },
+      {
+        "code": "48",
+        "title": "Arizona",
+        "titleRu": "Аризона",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 33.4484,
+          "longitude": -112.074
+        }
+      },
+      {
+        "code": "49",
+        "title": "Alaska",
+        "titleRu": "Аляска",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 58.3005,
+          "longitude": -134.4197
+        }
+      },
+      {
+        "code": "50",
+        "title": "Hawaii",
+        "titleRu": "Гавайи",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 21.3069,
+          "longitude": -157.8583
+        }
+      }
+    ]
+  },
+  {
+    "id": "olympic_cities",
+    "title": "Olympic Host Cities",
+    "titleRu": "Олимпийские города",
+    "description": "Summer Olympics host cities (cycles every 32 games).",
+    "descriptionRu": "Города-хозяева летних Олимпиад (цикл из 32 игр).",
+    "iconEmoji": "🏅",
+    "inputType": "age",
+    "codePrefix": "",
+    "items": [
+      {
+        "code": "1",
+        "title": "Athens 1896",
+        "titleRu": "Афины 1896",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "2",
+        "title": "Paris 1900",
+        "titleRu": "Париж 1900",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "3",
+        "title": "St. Louis 1904",
+        "titleRu": "Сент-Луис 1904",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.627,
+          "longitude": -90.1994
+        }
+      },
+      {
+        "code": "4",
+        "title": "London 1908",
+        "titleRu": "Лондон 1908",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "5",
+        "title": "Stockholm 1912",
+        "titleRu": "Стокгольм 1912",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "6",
+        "title": "Antwerp 1920",
+        "titleRu": "Антверпен 1920",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 51.2194,
+          "longitude": 4.4025
+        }
+      },
+      {
+        "code": "7",
+        "title": "Paris 1924",
+        "titleRu": "Париж 1924",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "8",
+        "title": "Amsterdam 1928",
+        "titleRu": "Амстердам 1928",
+        "countryCode": "NL",
+        "coordinates": {
+          "latitude": 52.3676,
+          "longitude": 4.9041
+        }
+      },
+      {
+        "code": "9",
+        "title": "Los Angeles 1932",
+        "titleRu": "Лос-Анджелес 1932",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "10",
+        "title": "Berlin 1936",
+        "titleRu": "Берлин 1936",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 52.52,
+          "longitude": 13.405
+        }
+      },
+      {
+        "code": "11",
+        "title": "London 1948",
+        "titleRu": "Лондон 1948",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "12",
+        "title": "Helsinki 1952",
+        "titleRu": "Хельсинки 1952",
+        "countryCode": "FI",
+        "coordinates": {
+          "latitude": 60.1699,
+          "longitude": 24.9384
+        }
+      },
+      {
+        "code": "13",
+        "title": "Melbourne 1956",
+        "titleRu": "Мельбурн 1956",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        }
+      },
+      {
+        "code": "14",
+        "title": "Rome 1960",
+        "titleRu": "Рим 1960",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        }
+      },
+      {
+        "code": "15",
+        "title": "Tokyo 1964",
+        "titleRu": "Токио 1964",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "16",
+        "title": "Mexico City 1968",
+        "titleRu": "Мехико 1968",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "17",
+        "title": "Munich 1972",
+        "titleRu": "Мюнхен 1972",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 48.1351,
+          "longitude": 11.582
+        }
+      },
+      {
+        "code": "18",
+        "title": "Montreal 1976",
+        "titleRu": "Монреаль 1976",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 45.5017,
+          "longitude": -73.5673
+        }
+      },
+      {
+        "code": "19",
+        "title": "Moscow 1980",
+        "titleRu": "Москва 1980",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "20",
+        "title": "Los Angeles 1984",
+        "titleRu": "Лос-Анджелес 1984",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "21",
+        "title": "Seoul 1988",
+        "titleRu": "Сеул 1988",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "22",
+        "title": "Barcelona 1992",
+        "titleRu": "Барселона 1992",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 41.3874,
+          "longitude": 2.1686
+        }
+      },
+      {
+        "code": "23",
+        "title": "Atlanta 1996",
+        "titleRu": "Атланта 1996",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 33.749,
+          "longitude": -84.388
+        }
+      },
+      {
+        "code": "24",
+        "title": "Sydney 2000",
+        "titleRu": "Сидней 2000",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -33.8688,
+          "longitude": 151.2093
+        }
+      },
+      {
+        "code": "25",
+        "title": "Athens 2004",
+        "titleRu": "Афины 2004",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "26",
+        "title": "Beijing 2008",
+        "titleRu": "Пекин 2008",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9042,
+          "longitude": 116.4074
+        }
+      },
+      {
+        "code": "27",
+        "title": "London 2012",
+        "titleRu": "Лондон 2012",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "28",
+        "title": "Rio de Janeiro 2016",
+        "titleRu": "Рио-де-Жанейро 2016",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -22.9068,
+          "longitude": -43.1729
+        }
+      },
+      {
+        "code": "29",
+        "title": "Tokyo 2020",
+        "titleRu": "Токио 2020",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "30",
+        "title": "Paris 2024",
+        "titleRu": "Париж 2024",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "31",
+        "title": "Los Angeles 2028",
+        "titleRu": "Лос-Анджелес 2028",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "32",
+        "title": "Brisbane 2032",
+        "titleRu": "Брисбен 2032",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -27.4698,
+          "longitude": 153.0251
+        }
+      },
+      {
+        "code": "33",
+        "title": "Athens 1896",
+        "titleRu": "Афины 1896",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "34",
+        "title": "Paris 1900",
+        "titleRu": "Париж 1900",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "35",
+        "title": "St. Louis 1904",
+        "titleRu": "Сент-Луис 1904",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.627,
+          "longitude": -90.1994
+        }
+      },
+      {
+        "code": "36",
+        "title": "London 1908",
+        "titleRu": "Лондон 1908",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "37",
+        "title": "Stockholm 1912",
+        "titleRu": "Стокгольм 1912",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "38",
+        "title": "Antwerp 1920",
+        "titleRu": "Антверпен 1920",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 51.2194,
+          "longitude": 4.4025
+        }
+      },
+      {
+        "code": "39",
+        "title": "Paris 1924",
+        "titleRu": "Париж 1924",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "40",
+        "title": "Amsterdam 1928",
+        "titleRu": "Амстердам 1928",
+        "countryCode": "NL",
+        "coordinates": {
+          "latitude": 52.3676,
+          "longitude": 4.9041
+        }
+      },
+      {
+        "code": "41",
+        "title": "Los Angeles 1932",
+        "titleRu": "Лос-Анджелес 1932",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "42",
+        "title": "Berlin 1936",
+        "titleRu": "Берлин 1936",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 52.52,
+          "longitude": 13.405
+        }
+      },
+      {
+        "code": "43",
+        "title": "London 1948",
+        "titleRu": "Лондон 1948",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "44",
+        "title": "Helsinki 1952",
+        "titleRu": "Хельсинки 1952",
+        "countryCode": "FI",
+        "coordinates": {
+          "latitude": 60.1699,
+          "longitude": 24.9384
+        }
+      },
+      {
+        "code": "45",
+        "title": "Melbourne 1956",
+        "titleRu": "Мельбурн 1956",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        }
+      },
+      {
+        "code": "46",
+        "title": "Rome 1960",
+        "titleRu": "Рим 1960",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        }
+      },
+      {
+        "code": "47",
+        "title": "Tokyo 1964",
+        "titleRu": "Токио 1964",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "48",
+        "title": "Mexico City 1968",
+        "titleRu": "Мехико 1968",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "49",
+        "title": "Munich 1972",
+        "titleRu": "Мюнхен 1972",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 48.1351,
+          "longitude": 11.582
+        }
+      },
+      {
+        "code": "50",
+        "title": "Montreal 1976",
+        "titleRu": "Монреаль 1976",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 45.5017,
+          "longitude": -73.5673
+        }
+      },
+      {
+        "code": "51",
+        "title": "Moscow 1980",
+        "titleRu": "Москва 1980",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "52",
+        "title": "Los Angeles 1984",
+        "titleRu": "Лос-Анджелес 1984",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "53",
+        "title": "Seoul 1988",
+        "titleRu": "Сеул 1988",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "54",
+        "title": "Barcelona 1992",
+        "titleRu": "Барселона 1992",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 41.3874,
+          "longitude": 2.1686
+        }
+      },
+      {
+        "code": "55",
+        "title": "Atlanta 1996",
+        "titleRu": "Атланта 1996",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 33.749,
+          "longitude": -84.388
+        }
+      },
+      {
+        "code": "56",
+        "title": "Sydney 2000",
+        "titleRu": "Сидней 2000",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -33.8688,
+          "longitude": 151.2093
+        }
+      },
+      {
+        "code": "57",
+        "title": "Athens 2004",
+        "titleRu": "Афины 2004",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "58",
+        "title": "Beijing 2008",
+        "titleRu": "Пекин 2008",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9042,
+          "longitude": 116.4074
+        }
+      },
+      {
+        "code": "59",
+        "title": "London 2012",
+        "titleRu": "Лондон 2012",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "60",
+        "title": "Rio de Janeiro 2016",
+        "titleRu": "Рио-де-Жанейро 2016",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -22.9068,
+          "longitude": -43.1729
+        }
+      },
+      {
+        "code": "61",
+        "title": "Tokyo 2020",
+        "titleRu": "Токио 2020",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "62",
+        "title": "Paris 2024",
+        "titleRu": "Париж 2024",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "63",
+        "title": "Los Angeles 2028",
+        "titleRu": "Лос-Анджелес 2028",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "64",
+        "title": "Brisbane 2032",
+        "titleRu": "Брисбен 2032",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -27.4698,
+          "longitude": 153.0251
+        }
+      },
+      {
+        "code": "65",
+        "title": "Athens 1896",
+        "titleRu": "Афины 1896",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "66",
+        "title": "Paris 1900",
+        "titleRu": "Париж 1900",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "67",
+        "title": "St. Louis 1904",
+        "titleRu": "Сент-Луис 1904",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.627,
+          "longitude": -90.1994
+        }
+      },
+      {
+        "code": "68",
+        "title": "London 1908",
+        "titleRu": "Лондон 1908",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "69",
+        "title": "Stockholm 1912",
+        "titleRu": "Стокгольм 1912",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "70",
+        "title": "Antwerp 1920",
+        "titleRu": "Антверпен 1920",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 51.2194,
+          "longitude": 4.4025
+        }
+      },
+      {
+        "code": "71",
+        "title": "Paris 1924",
+        "titleRu": "Париж 1924",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "72",
+        "title": "Amsterdam 1928",
+        "titleRu": "Амстердам 1928",
+        "countryCode": "NL",
+        "coordinates": {
+          "latitude": 52.3676,
+          "longitude": 4.9041
+        }
+      },
+      {
+        "code": "73",
+        "title": "Los Angeles 1932",
+        "titleRu": "Лос-Анджелес 1932",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "74",
+        "title": "Berlin 1936",
+        "titleRu": "Берлин 1936",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 52.52,
+          "longitude": 13.405
+        }
+      },
+      {
+        "code": "75",
+        "title": "London 1948",
+        "titleRu": "Лондон 1948",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "76",
+        "title": "Helsinki 1952",
+        "titleRu": "Хельсинки 1952",
+        "countryCode": "FI",
+        "coordinates": {
+          "latitude": 60.1699,
+          "longitude": 24.9384
+        }
+      },
+      {
+        "code": "77",
+        "title": "Melbourne 1956",
+        "titleRu": "Мельбурн 1956",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        }
+      },
+      {
+        "code": "78",
+        "title": "Rome 1960",
+        "titleRu": "Рим 1960",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        }
+      },
+      {
+        "code": "79",
+        "title": "Tokyo 1964",
+        "titleRu": "Токио 1964",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "80",
+        "title": "Mexico City 1968",
+        "titleRu": "Мехико 1968",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "81",
+        "title": "Munich 1972",
+        "titleRu": "Мюнхен 1972",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 48.1351,
+          "longitude": 11.582
+        }
+      },
+      {
+        "code": "82",
+        "title": "Montreal 1976",
+        "titleRu": "Монреаль 1976",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 45.5017,
+          "longitude": -73.5673
+        }
+      },
+      {
+        "code": "83",
+        "title": "Moscow 1980",
+        "titleRu": "Москва 1980",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "84",
+        "title": "Los Angeles 1984",
+        "titleRu": "Лос-Анджелес 1984",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "85",
+        "title": "Seoul 1988",
+        "titleRu": "Сеул 1988",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "86",
+        "title": "Barcelona 1992",
+        "titleRu": "Барселона 1992",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 41.3874,
+          "longitude": 2.1686
+        }
+      },
+      {
+        "code": "87",
+        "title": "Atlanta 1996",
+        "titleRu": "Атланта 1996",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 33.749,
+          "longitude": -84.388
+        }
+      },
+      {
+        "code": "88",
+        "title": "Sydney 2000",
+        "titleRu": "Сидней 2000",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -33.8688,
+          "longitude": 151.2093
+        }
+      },
+      {
+        "code": "89",
+        "title": "Athens 2004",
+        "titleRu": "Афины 2004",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "90",
+        "title": "Beijing 2008",
+        "titleRu": "Пекин 2008",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9042,
+          "longitude": 116.4074
+        }
+      },
+      {
+        "code": "91",
+        "title": "London 2012",
+        "titleRu": "Лондон 2012",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "92",
+        "title": "Rio de Janeiro 2016",
+        "titleRu": "Рио-де-Жанейро 2016",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -22.9068,
+          "longitude": -43.1729
+        }
+      },
+      {
+        "code": "93",
+        "title": "Tokyo 2020",
+        "titleRu": "Токио 2020",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "94",
+        "title": "Paris 2024",
+        "titleRu": "Париж 2024",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "95",
+        "title": "Los Angeles 2028",
+        "titleRu": "Лос-Анджелес 2028",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "96",
+        "title": "Brisbane 2032",
+        "titleRu": "Брисбен 2032",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -27.4698,
+          "longitude": 153.0251
+        }
+      },
+      {
+        "code": "97",
+        "title": "Athens 1896",
+        "titleRu": "Афины 1896",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9838,
+          "longitude": 23.7275
+        }
+      },
+      {
+        "code": "98",
+        "title": "Paris 1900",
+        "titleRu": "Париж 1900",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "99",
+        "title": "St. Louis 1904",
+        "titleRu": "Сент-Луис 1904",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.627,
+          "longitude": -90.1994
+        }
+      },
+      {
+        "code": "100",
+        "title": "London 1908",
+        "titleRu": "Лондон 1908",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "101",
+        "title": "Stockholm 1912",
+        "titleRu": "Стокгольм 1912",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "102",
+        "title": "Antwerp 1920",
+        "titleRu": "Антверпен 1920",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 51.2194,
+          "longitude": 4.4025
+        }
+      },
+      {
+        "code": "103",
+        "title": "Paris 1924",
+        "titleRu": "Париж 1924",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8566,
+          "longitude": 2.3522
+        }
+      },
+      {
+        "code": "104",
+        "title": "Amsterdam 1928",
+        "titleRu": "Амстердам 1928",
+        "countryCode": "NL",
+        "coordinates": {
+          "latitude": 52.3676,
+          "longitude": 4.9041
+        }
+      },
+      {
+        "code": "105",
+        "title": "Los Angeles 1932",
+        "titleRu": "Лос-Анджелес 1932",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "106",
+        "title": "Berlin 1936",
+        "titleRu": "Берлин 1936",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 52.52,
+          "longitude": 13.405
+        }
+      },
+      {
+        "code": "107",
+        "title": "London 1948",
+        "titleRu": "Лондон 1948",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "108",
+        "title": "Helsinki 1952",
+        "titleRu": "Хельсинки 1952",
+        "countryCode": "FI",
+        "coordinates": {
+          "latitude": 60.1699,
+          "longitude": 24.9384
+        }
+      },
+      {
+        "code": "109",
+        "title": "Melbourne 1956",
+        "titleRu": "Мельбурн 1956",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -37.8136,
+          "longitude": 144.9631
+        }
+      },
+      {
+        "code": "110",
+        "title": "Rome 1960",
+        "titleRu": "Рим 1960",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.9028,
+          "longitude": 12.4964
+        }
+      },
+      {
+        "code": "111",
+        "title": "Tokyo 1964",
+        "titleRu": "Токио 1964",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "112",
+        "title": "Mexico City 1968",
+        "titleRu": "Мехико 1968",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "113",
+        "title": "Munich 1972",
+        "titleRu": "Мюнхен 1972",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 48.1351,
+          "longitude": 11.582
+        }
+      },
+      {
+        "code": "114",
+        "title": "Montreal 1976",
+        "titleRu": "Монреаль 1976",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 45.5017,
+          "longitude": -73.5673
+        }
+      },
+      {
+        "code": "115",
+        "title": "Moscow 1980",
+        "titleRu": "Москва 1980",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "116",
+        "title": "Los Angeles 1984",
+        "titleRu": "Лос-Анджелес 1984",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 34.0522,
+          "longitude": -118.2437
+        }
+      },
+      {
+        "code": "117",
+        "title": "Seoul 1988",
+        "titleRu": "Сеул 1988",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "118",
+        "title": "Barcelona 1992",
+        "titleRu": "Барселона 1992",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 41.3874,
+          "longitude": 2.1686
+        }
+      },
+      {
+        "code": "119",
+        "title": "Atlanta 1996",
+        "titleRu": "Атланта 1996",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 33.749,
+          "longitude": -84.388
+        }
+      },
+      {
+        "code": "120",
+        "title": "Sydney 2000",
+        "titleRu": "Сидней 2000",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -33.8688,
+          "longitude": 151.2093
+        }
+      }
+    ]
+  },
+  {
+    "id": "world_currencies",
+    "title": "World Currencies",
+    "titleRu": "Мировые валюты",
+    "description": "100 world currencies — from the dollar to the manat.",
+    "descriptionRu": "100 мировых валют — от доллара до маната.",
+    "iconEmoji": "💰",
+    "inputType": "age",
+    "codePrefix": "",
+    "items": [
+      {
+        "code": "1",
+        "title": "US Dollar (USD)",
+        "titleRu": "Доллар США (USD)",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 38.8951,
+          "longitude": -77.0364
+        }
+      },
+      {
+        "code": "2",
+        "title": "Euro (EUR)",
+        "titleRu": "Евро (EUR)",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 50.1109,
+          "longitude": 8.6821
+        }
+      },
+      {
+        "code": "3",
+        "title": "British Pound (GBP)",
+        "titleRu": "Фунт стерлингов (GBP)",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5074,
+          "longitude": -0.1278
+        }
+      },
+      {
+        "code": "4",
+        "title": "Japanese Yen (JPY)",
+        "titleRu": "Японская иена (JPY)",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.6762,
+          "longitude": 139.6503
+        }
+      },
+      {
+        "code": "5",
+        "title": "Swiss Franc (CHF)",
+        "titleRu": "Швейцарский франк (CHF)",
+        "countryCode": "CH",
+        "coordinates": {
+          "latitude": 46.9481,
+          "longitude": 7.4474
+        }
+      },
+      {
+        "code": "6",
+        "title": "Canadian Dollar (CAD)",
+        "titleRu": "Канадский доллар (CAD)",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 45.4215,
+          "longitude": -75.6972
+        }
+      },
+      {
+        "code": "7",
+        "title": "Australian Dollar (AUD)",
+        "titleRu": "Австралийский доллар (AUD)",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -35.2809,
+          "longitude": 149.13
+        }
+      },
+      {
+        "code": "8",
+        "title": "Chinese Yuan (CNY)",
+        "titleRu": "Китайский юань (CNY)",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9042,
+          "longitude": 116.4074
+        }
+      },
+      {
+        "code": "9",
+        "title": "Indian Rupee (INR)",
+        "titleRu": "Индийская рупия (INR)",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 28.6139,
+          "longitude": 77.209
+        }
+      },
+      {
+        "code": "10",
+        "title": "Mexican Peso (MXN)",
+        "titleRu": "Мексиканский песо (MXN)",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.4326,
+          "longitude": -99.1332
+        }
+      },
+      {
+        "code": "11",
+        "title": "Brazilian Real (BRL)",
+        "titleRu": "Бразильский реал (BRL)",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -15.7801,
+          "longitude": -47.9292
+        }
+      },
+      {
+        "code": "12",
+        "title": "South Korean Won (KRW)",
+        "titleRu": "Южнокорейская вона (KRW)",
+        "countryCode": "KR",
+        "coordinates": {
+          "latitude": 37.5665,
+          "longitude": 126.978
+        }
+      },
+      {
+        "code": "13",
+        "title": "Russian Ruble (RUB)",
+        "titleRu": "Российский рубль (RUB)",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7558,
+          "longitude": 37.6173
+        }
+      },
+      {
+        "code": "14",
+        "title": "South African Rand (ZAR)",
+        "titleRu": "Южноафриканский рэнд (ZAR)",
+        "countryCode": "ZA",
+        "coordinates": {
+          "latitude": -25.7479,
+          "longitude": 28.2293
+        }
+      },
+      {
+        "code": "15",
+        "title": "Turkish Lira (TRY)",
+        "titleRu": "Турецкая лира (TRY)",
+        "countryCode": "TR",
+        "coordinates": {
+          "latitude": 39.9334,
+          "longitude": 32.8597
+        }
+      },
+      {
+        "code": "16",
+        "title": "Saudi Riyal (SAR)",
+        "titleRu": "Саудовский риял (SAR)",
+        "countryCode": "SA",
+        "coordinates": {
+          "latitude": 24.7136,
+          "longitude": 46.6753
+        }
+      },
+      {
+        "code": "17",
+        "title": "UAE Dirham (AED)",
+        "titleRu": "Дирхам ОАЭ (AED)",
+        "countryCode": "AE",
+        "coordinates": {
+          "latitude": 24.4539,
+          "longitude": 54.3773
+        }
+      },
+      {
+        "code": "18",
+        "title": "Singapore Dollar (SGD)",
+        "titleRu": "Сингапурский доллар (SGD)",
+        "countryCode": "SG",
+        "coordinates": {
+          "latitude": 1.3521,
+          "longitude": 103.8198
+        }
+      },
+      {
+        "code": "19",
+        "title": "Hong Kong Dollar (HKD)",
+        "titleRu": "Гонконгский доллар (HKD)",
+        "countryCode": "HK",
+        "coordinates": {
+          "latitude": 22.3193,
+          "longitude": 114.1694
+        }
+      },
+      {
+        "code": "20",
+        "title": "Norwegian Krone (NOK)",
+        "titleRu": "Норвежская крона (NOK)",
+        "countryCode": "NO",
+        "coordinates": {
+          "latitude": 59.9139,
+          "longitude": 10.7522
+        }
+      },
+      {
+        "code": "21",
+        "title": "Swedish Krona (SEK)",
+        "titleRu": "Шведская крона (SEK)",
+        "countryCode": "SE",
+        "coordinates": {
+          "latitude": 59.3293,
+          "longitude": 18.0686
+        }
+      },
+      {
+        "code": "22",
+        "title": "Danish Krone (DKK)",
+        "titleRu": "Датская крона (DKK)",
+        "countryCode": "DK",
+        "coordinates": {
+          "latitude": 55.6761,
+          "longitude": 12.5683
+        }
+      },
+      {
+        "code": "23",
+        "title": "New Zealand Dollar (NZD)",
+        "titleRu": "Новозеландский доллар (NZD)",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -41.2865,
+          "longitude": 174.7762
+        }
+      },
+      {
+        "code": "24",
+        "title": "Polish Zloty (PLN)",
+        "titleRu": "Польский злотый (PLN)",
+        "countryCode": "PL",
+        "coordinates": {
+          "latitude": 52.2297,
+          "longitude": 21.0122
+        }
+      },
+      {
+        "code": "25",
+        "title": "Thai Baht (THB)",
+        "titleRu": "Тайский бат (THB)",
+        "countryCode": "TH",
+        "coordinates": {
+          "latitude": 13.7563,
+          "longitude": 100.5018
+        }
+      },
+      {
+        "code": "26",
+        "title": "Indonesian Rupiah (IDR)",
+        "titleRu": "Индонезийская рупия (IDR)",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -6.2088,
+          "longitude": 106.8456
+        }
+      },
+      {
+        "code": "27",
+        "title": "Malaysian Ringgit (MYR)",
+        "titleRu": "Малайзийский ринггит (MYR)",
+        "countryCode": "MY",
+        "coordinates": {
+          "latitude": 3.139,
+          "longitude": 101.6869
+        }
+      },
+      {
+        "code": "28",
+        "title": "Philippine Peso (PHP)",
+        "titleRu": "Филиппинский песо (PHP)",
+        "countryCode": "PH",
+        "coordinates": {
+          "latitude": 14.5995,
+          "longitude": 120.9842
+        }
+      },
+      {
+        "code": "29",
+        "title": "Czech Koruna (CZK)",
+        "titleRu": "Чешская крона (CZK)",
+        "countryCode": "CZ",
+        "coordinates": {
+          "latitude": 50.0755,
+          "longitude": 14.4378
+        }
+      },
+      {
+        "code": "30",
+        "title": "Israeli Shekel (ILS)",
+        "titleRu": "Израильский шекель (ILS)",
+        "countryCode": "IL",
+        "coordinates": {
+          "latitude": 31.7683,
+          "longitude": 35.2137
+        }
+      },
+      {
+        "code": "31",
+        "title": "Chilean Peso (CLP)",
+        "titleRu": "Чилийское песо (CLP)",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -33.4489,
+          "longitude": -70.6693
+        }
+      },
+      {
+        "code": "32",
+        "title": "Colombian Peso (COP)",
+        "titleRu": "Колумбийское песо (COP)",
+        "countryCode": "CO",
+        "coordinates": {
+          "latitude": 4.711,
+          "longitude": -74.0721
+        }
+      },
+      {
+        "code": "33",
+        "title": "Argentine Peso (ARS)",
+        "titleRu": "Аргентинское песо (ARS)",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -34.6037,
+          "longitude": -58.3816
+        }
+      },
+      {
+        "code": "34",
+        "title": "Egyptian Pound (EGP)",
+        "titleRu": "Египетский фунт (EGP)",
+        "countryCode": "EG",
+        "coordinates": {
+          "latitude": 30.0444,
+          "longitude": 31.2357
+        }
+      },
+      {
+        "code": "35",
+        "title": "Nigerian Naira (NGN)",
+        "titleRu": "Нигерийская найра (NGN)",
+        "countryCode": "NG",
+        "coordinates": {
+          "latitude": 9.0579,
+          "longitude": 7.4951
+        }
+      },
+      {
+        "code": "36",
+        "title": "Kenyan Shilling (KES)",
+        "titleRu": "Кенийский шиллинг (KES)",
+        "countryCode": "KE",
+        "coordinates": {
+          "latitude": -1.2921,
+          "longitude": 36.8219
+        }
+      },
+      {
+        "code": "37",
+        "title": "Peruvian Sol (PEN)",
+        "titleRu": "Перуанский соль (PEN)",
+        "countryCode": "PE",
+        "coordinates": {
+          "latitude": -12.0464,
+          "longitude": -77.0428
+        }
+      },
+      {
+        "code": "38",
+        "title": "Ukrainian Hryvnia (UAH)",
+        "titleRu": "Украинская гривна (UAH)",
+        "countryCode": "UA",
+        "coordinates": {
+          "latitude": 50.4501,
+          "longitude": 30.5234
+        }
+      },
+      {
+        "code": "39",
+        "title": "Romanian Leu (RON)",
+        "titleRu": "Румынский лей (RON)",
+        "countryCode": "RO",
+        "coordinates": {
+          "latitude": 44.4268,
+          "longitude": 26.1025
+        }
+      },
+      {
+        "code": "40",
+        "title": "Hungarian Forint (HUF)",
+        "titleRu": "Венгерский форинт (HUF)",
+        "countryCode": "HU",
+        "coordinates": {
+          "latitude": 47.4979,
+          "longitude": 19.0402
+        }
+      },
+      {
+        "code": "41",
+        "title": "Vietnamese Dong (VND)",
+        "titleRu": "Вьетнамский донг (VND)",
+        "countryCode": "VN",
+        "coordinates": {
+          "latitude": 21.0285,
+          "longitude": 105.8542
+        }
+      },
+      {
+        "code": "42",
+        "title": "Bangladeshi Taka (BDT)",
+        "titleRu": "Бангладешская така (BDT)",
+        "countryCode": "BD",
+        "coordinates": {
+          "latitude": 23.8103,
+          "longitude": 90.4125
+        }
+      },
+      {
+        "code": "43",
+        "title": "Pakistani Rupee (PKR)",
+        "titleRu": "Пакистанская рупия (PKR)",
+        "countryCode": "PK",
+        "coordinates": {
+          "latitude": 33.6844,
+          "longitude": 73.0479
+        }
+      },
+      {
+        "code": "44",
+        "title": "Sri Lankan Rupee (LKR)",
+        "titleRu": "Шри-ланкийская рупия (LKR)",
+        "countryCode": "LK",
+        "coordinates": {
+          "latitude": 6.9271,
+          "longitude": 79.8612
+        }
+      },
+      {
+        "code": "45",
+        "title": "Qatari Riyal (QAR)",
+        "titleRu": "Катарский риял (QAR)",
+        "countryCode": "QA",
+        "coordinates": {
+          "latitude": 25.2854,
+          "longitude": 51.531
+        }
+      },
+      {
+        "code": "46",
+        "title": "Kuwaiti Dinar (KWD)",
+        "titleRu": "Кувейтский динар (KWD)",
+        "countryCode": "KW",
+        "coordinates": {
+          "latitude": 29.3759,
+          "longitude": 47.9774
+        }
+      },
+      {
+        "code": "47",
+        "title": "Bahraini Dinar (BHD)",
+        "titleRu": "Бахрейнский динар (BHD)",
+        "countryCode": "BH",
+        "coordinates": {
+          "latitude": 26.2285,
+          "longitude": 50.586
+        }
+      },
+      {
+        "code": "48",
+        "title": "Omani Rial (OMR)",
+        "titleRu": "Оманский риал (OMR)",
+        "countryCode": "OM",
+        "coordinates": {
+          "latitude": 23.588,
+          "longitude": 58.3829
+        }
+      },
+      {
+        "code": "49",
+        "title": "Jordanian Dinar (JOD)",
+        "titleRu": "Иорданский динар (JOD)",
+        "countryCode": "JO",
+        "coordinates": {
+          "latitude": 31.9454,
+          "longitude": 35.9284
+        }
+      },
+      {
+        "code": "50",
+        "title": "Moroccan Dirham (MAD)",
+        "titleRu": "Марокканский дирхам (MAD)",
+        "countryCode": "MA",
+        "coordinates": {
+          "latitude": 33.9716,
+          "longitude": -6.8498
+        }
+      },
+      {
+        "code": "51",
+        "title": "Tanzanian Shilling (TZS)",
+        "titleRu": "Танзанийский шиллинг (TZS)",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -6.7924,
+          "longitude": 39.2083
+        }
+      },
+      {
+        "code": "52",
+        "title": "Ghanaian Cedi (GHS)",
+        "titleRu": "Ганский седи (GHS)",
+        "countryCode": "GH",
+        "coordinates": {
+          "latitude": 5.6037,
+          "longitude": -0.187
+        }
+      },
+      {
+        "code": "53",
+        "title": "Ugandan Shilling (UGX)",
+        "titleRu": "Угандийский шиллинг (UGX)",
+        "countryCode": "UG",
+        "coordinates": {
+          "latitude": 0.3476,
+          "longitude": 32.5825
+        }
+      },
+      {
+        "code": "54",
+        "title": "Ethiopian Birr (ETB)",
+        "titleRu": "Эфиопский быр (ETB)",
+        "countryCode": "ET",
+        "coordinates": {
+          "latitude": 9.032,
+          "longitude": 38.7469
+        }
+      },
+      {
+        "code": "55",
+        "title": "Icelandic Króna (ISK)",
+        "titleRu": "Исландская крона (ISK)",
+        "countryCode": "IS",
+        "coordinates": {
+          "latitude": 64.1466,
+          "longitude": -21.9426
+        }
+      },
+      {
+        "code": "56",
+        "title": "Georgian Lari (GEL)",
+        "titleRu": "Грузинский лари (GEL)",
+        "countryCode": "GE",
+        "coordinates": {
+          "latitude": 41.7151,
+          "longitude": 44.8271
+        }
+      },
+      {
+        "code": "57",
+        "title": "Armenian Dram (AMD)",
+        "titleRu": "Армянский драм (AMD)",
+        "countryCode": "AM",
+        "coordinates": {
+          "latitude": 40.1792,
+          "longitude": 44.4991
+        }
+      },
+      {
+        "code": "58",
+        "title": "Kazakhstani Tenge (KZT)",
+        "titleRu": "Казахстанский тенге (KZT)",
+        "countryCode": "KZ",
+        "coordinates": {
+          "latitude": 51.1694,
+          "longitude": 71.4491
+        }
+      },
+      {
+        "code": "59",
+        "title": "Uzbekistani Som (UZS)",
+        "titleRu": "Узбекский сум (UZS)",
+        "countryCode": "UZ",
+        "coordinates": {
+          "latitude": 41.2995,
+          "longitude": 69.2401
+        }
+      },
+      {
+        "code": "60",
+        "title": "Mongolian Tugrik (MNT)",
+        "titleRu": "Монгольский тугрик (MNT)",
+        "countryCode": "MN",
+        "coordinates": {
+          "latitude": 47.8864,
+          "longitude": 106.9057
+        }
+      },
+      {
+        "code": "61",
+        "title": "Cambodian Riel (KHR)",
+        "titleRu": "Камбоджийский риель (KHR)",
+        "countryCode": "KH",
+        "coordinates": {
+          "latitude": 11.5564,
+          "longitude": 104.9282
+        }
+      },
+      {
+        "code": "62",
+        "title": "Lao Kip (LAK)",
+        "titleRu": "Лаосский кип (LAK)",
+        "countryCode": "LA",
+        "coordinates": {
+          "latitude": 17.9757,
+          "longitude": 102.6331
+        }
+      },
+      {
+        "code": "63",
+        "title": "Myanmar Kyat (MMK)",
+        "titleRu": "Мьянманский кьят (MMK)",
+        "countryCode": "MM",
+        "coordinates": {
+          "latitude": 16.8661,
+          "longitude": 96.1951
+        }
+      },
+      {
+        "code": "64",
+        "title": "Nepalese Rupee (NPR)",
+        "titleRu": "Непальская рупия (NPR)",
+        "countryCode": "NP",
+        "coordinates": {
+          "latitude": 27.7172,
+          "longitude": 85.324
+        }
+      },
+      {
+        "code": "65",
+        "title": "Bhutanese Ngultrum (BTN)",
+        "titleRu": "Бутанский нгултрум (BTN)",
+        "countryCode": "BT",
+        "coordinates": {
+          "latitude": 27.4728,
+          "longitude": 89.639
+        }
+      },
+      {
+        "code": "66",
+        "title": "Maldivian Rufiyaa (MVR)",
+        "titleRu": "Мальдивская руфия (MVR)",
+        "countryCode": "MV",
+        "coordinates": {
+          "latitude": 4.1755,
+          "longitude": 73.5093
+        }
+      },
+      {
+        "code": "67",
+        "title": "Iranian Rial (IRR)",
+        "titleRu": "Иранский риал (IRR)",
+        "countryCode": "IR",
+        "coordinates": {
+          "latitude": 35.6892,
+          "longitude": 51.389
+        }
+      },
+      {
+        "code": "68",
+        "title": "Iraqi Dinar (IQD)",
+        "titleRu": "Иракский динар (IQD)",
+        "countryCode": "IQ",
+        "coordinates": {
+          "latitude": 33.3152,
+          "longitude": 44.3661
+        }
+      },
+      {
+        "code": "69",
+        "title": "Lebanese Pound (LBP)",
+        "titleRu": "Ливанский фунт (LBP)",
+        "countryCode": "LB",
+        "coordinates": {
+          "latitude": 33.8938,
+          "longitude": 35.5018
+        }
+      },
+      {
+        "code": "70",
+        "title": "Tunisian Dinar (TND)",
+        "titleRu": "Тунисский динар (TND)",
+        "countryCode": "TN",
+        "coordinates": {
+          "latitude": 36.8065,
+          "longitude": 10.1815
+        }
+      },
+      {
+        "code": "71",
+        "title": "Algerian Dinar (DZD)",
+        "titleRu": "Алжирский динар (DZD)",
+        "countryCode": "DZ",
+        "coordinates": {
+          "latitude": 36.7538,
+          "longitude": 3.0588
+        }
+      },
+      {
+        "code": "72",
+        "title": "Libyan Dinar (LYD)",
+        "titleRu": "Ливийский динар (LYD)",
+        "countryCode": "LY",
+        "coordinates": {
+          "latitude": 32.8872,
+          "longitude": 13.1913
+        }
+      },
+      {
+        "code": "73",
+        "title": "Jamaican Dollar (JMD)",
+        "titleRu": "Ямайский доллар (JMD)",
+        "countryCode": "JM",
+        "coordinates": {
+          "latitude": 18.0179,
+          "longitude": -76.8099
+        }
+      },
+      {
+        "code": "74",
+        "title": "Trinidad Dollar (TTD)",
+        "titleRu": "Тринидадский доллар (TTD)",
+        "countryCode": "TT",
+        "coordinates": {
+          "latitude": 10.6596,
+          "longitude": -61.5086
+        }
+      },
+      {
+        "code": "75",
+        "title": "Barbadian Dollar (BBD)",
+        "titleRu": "Барбадосский доллар (BBD)",
+        "countryCode": "BB",
+        "coordinates": {
+          "latitude": 13.1132,
+          "longitude": -59.5988
+        }
+      },
+      {
+        "code": "76",
+        "title": "Cuban Peso (CUP)",
+        "titleRu": "Кубинское песо (CUP)",
+        "countryCode": "CU",
+        "coordinates": {
+          "latitude": 23.1136,
+          "longitude": -82.3666
+        }
+      },
+      {
+        "code": "77",
+        "title": "Dominican Peso (DOP)",
+        "titleRu": "Доминиканское песо (DOP)",
+        "countryCode": "DO",
+        "coordinates": {
+          "latitude": 18.4861,
+          "longitude": -69.9312
+        }
+      },
+      {
+        "code": "78",
+        "title": "Costa Rican Colón (CRC)",
+        "titleRu": "Костариканский колон (CRC)",
+        "countryCode": "CR",
+        "coordinates": {
+          "latitude": 9.9281,
+          "longitude": -84.0907
+        }
+      },
+      {
+        "code": "79",
+        "title": "Guatemalan Quetzal (GTQ)",
+        "titleRu": "Гватемальский кетсаль (GTQ)",
+        "countryCode": "GT",
+        "coordinates": {
+          "latitude": 14.6349,
+          "longitude": -90.5069
+        }
+      },
+      {
+        "code": "80",
+        "title": "Honduran Lempira (HNL)",
+        "titleRu": "Гондурасская лемпира (HNL)",
+        "countryCode": "HN",
+        "coordinates": {
+          "latitude": 14.0723,
+          "longitude": -87.1921
+        }
+      },
+      {
+        "code": "81",
+        "title": "Panamanian Balboa (PAB)",
+        "titleRu": "Панамский бальбоа (PAB)",
+        "countryCode": "PA",
+        "coordinates": {
+          "latitude": 8.9824,
+          "longitude": -79.5199
+        }
+      },
+      {
+        "code": "82",
+        "title": "Paraguayan Guaraní (PYG)",
+        "titleRu": "Парагвайский гуарани (PYG)",
+        "countryCode": "PY",
+        "coordinates": {
+          "latitude": -25.2637,
+          "longitude": -57.5759
+        }
+      },
+      {
+        "code": "83",
+        "title": "Uruguayan Peso (UYU)",
+        "titleRu": "Уругвайское песо (UYU)",
+        "countryCode": "UY",
+        "coordinates": {
+          "latitude": -34.9011,
+          "longitude": -56.1645
+        }
+      },
+      {
+        "code": "84",
+        "title": "Bolivian Boliviano (BOB)",
+        "titleRu": "Боливийский боливиано (BOB)",
+        "countryCode": "BO",
+        "coordinates": {
+          "latitude": -16.4897,
+          "longitude": -68.1193
+        }
+      },
+      {
+        "code": "85",
+        "title": "Venezuelan Bolívar (VES)",
+        "titleRu": "Венесуэльский боливар (VES)",
+        "countryCode": "VE",
+        "coordinates": {
+          "latitude": 10.4806,
+          "longitude": -66.9036
+        }
+      },
+      {
+        "code": "86",
+        "title": "Ecuadorian Sucre (USD)",
+        "titleRu": "Доллар США в Эквадоре",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -0.1807,
+          "longitude": -78.4678
+        }
+      },
+      {
+        "code": "87",
+        "title": "Fijian Dollar (FJD)",
+        "titleRu": "Фиджийский доллар (FJD)",
+        "countryCode": "FJ",
+        "coordinates": {
+          "latitude": -18.1416,
+          "longitude": 178.4419
+        }
+      },
+      {
+        "code": "88",
+        "title": "Papua New Guinean Kina (PGK)",
+        "titleRu": "Кина Папуа–Новой Гвинеи (PGK)",
+        "countryCode": "PG",
+        "coordinates": {
+          "latitude": -9.4438,
+          "longitude": 147.1803
+        }
+      },
+      {
+        "code": "89",
+        "title": "Samoan Tālā (WST)",
+        "titleRu": "Самоанская тала (WST)",
+        "countryCode": "WS",
+        "coordinates": {
+          "latitude": -13.8333,
+          "longitude": -171.75
+        }
+      },
+      {
+        "code": "90",
+        "title": "Tongan Paʻanga (TOP)",
+        "titleRu": "Тонганская паанга (TOP)",
+        "countryCode": "TO",
+        "coordinates": {
+          "latitude": -21.2167,
+          "longitude": -175.1667
+        }
+      },
+      {
+        "code": "91",
+        "title": "Serbian Dinar (RSD)",
+        "titleRu": "Сербский динар (RSD)",
+        "countryCode": "RS",
+        "coordinates": {
+          "latitude": 44.7866,
+          "longitude": 20.4489
+        }
+      },
+      {
+        "code": "92",
+        "title": "Bulgarian Lev (BGN)",
+        "titleRu": "Болгарский лев (BGN)",
+        "countryCode": "BG",
+        "coordinates": {
+          "latitude": 42.6977,
+          "longitude": 23.3219
+        }
+      },
+      {
+        "code": "93",
+        "title": "Croatian Kuna (EUR)",
+        "titleRu": "Евро в Хорватии",
+        "countryCode": "HR",
+        "coordinates": {
+          "latitude": 45.815,
+          "longitude": 15.9819
+        }
+      },
+      {
+        "code": "94",
+        "title": "Belarusian Ruble (BYN)",
+        "titleRu": "Белорусский рубль (BYN)",
+        "countryCode": "BY",
+        "coordinates": {
+          "latitude": 53.9006,
+          "longitude": 27.559
+        }
+      },
+      {
+        "code": "95",
+        "title": "Moldovan Leu (MDL)",
+        "titleRu": "Молдавский лей (MDL)",
+        "countryCode": "MD",
+        "coordinates": {
+          "latitude": 47.0105,
+          "longitude": 28.8638
+        }
+      },
+      {
+        "code": "96",
+        "title": "Albanian Lek (ALL)",
+        "titleRu": "Албанский лек (ALL)",
+        "countryCode": "AL",
+        "coordinates": {
+          "latitude": 41.3275,
+          "longitude": 19.8187
+        }
+      },
+      {
+        "code": "97",
+        "title": "Macedonian Denar (MKD)",
+        "titleRu": "Македонский денар (MKD)",
+        "countryCode": "MK",
+        "coordinates": {
+          "latitude": 41.9973,
+          "longitude": 21.428
+        }
+      },
+      {
+        "code": "98",
+        "title": "Bosnian Mark (BAM)",
+        "titleRu": "Боснийская марка (BAM)",
+        "countryCode": "BA",
+        "coordinates": {
+          "latitude": 43.8564,
+          "longitude": 18.4131
+        }
+      },
+      {
+        "code": "99",
+        "title": "Azerbaijani Manat (AZN)",
+        "titleRu": "Азербайджанский манат (AZN)",
+        "countryCode": "AZ",
+        "coordinates": {
+          "latitude": 40.4093,
+          "longitude": 49.8671
+        }
+      },
+      {
+        "code": "100",
+        "title": "Turkmen Manat (TMT)",
+        "titleRu": "Туркменский манат (TMT)",
+        "countryCode": "TM",
+        "coordinates": {
+          "latitude": 37.9601,
+          "longitude": 58.3261
+        }
+      }
+    ]
+  },
+  {
+    "id": "unesco_heritage",
+    "title": "UNESCO World Heritage",
+    "titleRu": "ЮНЕСКО: объекты наследия",
+    "description": "100 iconic World Heritage sites across the globe.",
+    "descriptionRu": "100 знаковых объектов Всемирного наследия ЮНЕСКО.",
+    "iconEmoji": "🏛️",
+    "inputType": "age",
+    "codePrefix": "",
+    "items": [
+      {
+        "code": "1",
+        "title": "Galápagos Islands",
+        "titleRu": "Галапагосские острова",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -0.9538,
+          "longitude": -90.9656
+        }
+      },
+      {
+        "code": "2",
+        "title": "Yellowstone",
+        "titleRu": "Йеллоустоун",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.428,
+          "longitude": -110.5885
+        }
+      },
+      {
+        "code": "3",
+        "title": "Kraków Old Town",
+        "titleRu": "Старый Краков",
+        "countryCode": "PL",
+        "coordinates": {
+          "latitude": 50.0614,
+          "longitude": 19.9366
+        }
+      },
+      {
+        "code": "4",
+        "title": "Wieliczka Salt Mine",
+        "titleRu": "Соляная шахта Величка",
+        "countryCode": "PL",
+        "coordinates": {
+          "latitude": 49.9833,
+          "longitude": 20.0556
+        }
+      },
+      {
+        "code": "5",
+        "title": "Simien Mountains",
+        "titleRu": "Горы Сымен",
+        "countryCode": "ET",
+        "coordinates": {
+          "latitude": 13.2667,
+          "longitude": 38.3833
+        }
+      },
+      {
+        "code": "6",
+        "title": "Rock-hewn Churches, Lalibela",
+        "titleRu": "Скальные церкви Лалибэлы",
+        "countryCode": "ET",
+        "coordinates": {
+          "latitude": 12.0319,
+          "longitude": 39.0436
+        }
+      },
+      {
+        "code": "7",
+        "title": "Aachen Cathedral",
+        "titleRu": "Ахенский собор",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 50.7747,
+          "longitude": 6.084
+        }
+      },
+      {
+        "code": "8",
+        "title": "L'Anse aux Meadows",
+        "titleRu": "Л'Анс-о-Медоуз",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 51.5882,
+          "longitude": -55.5337
+        }
+      },
+      {
+        "code": "9",
+        "title": "Mesa Verde",
+        "titleRu": "Меса-Верде",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 37.1838,
+          "longitude": -108.4887
+        }
+      },
+      {
+        "code": "10",
+        "title": "Nahanni National Park",
+        "titleRu": "Парк Наханни",
+        "countryCode": "CA",
+        "coordinates": {
+          "latitude": 61.5,
+          "longitude": -125.5
+        }
+      },
+      {
+        "code": "11",
+        "title": "Great Barrier Reef",
+        "titleRu": "Большой Барьерный риф",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -18.2871,
+          "longitude": 147.6992
+        }
+      },
+      {
+        "code": "12",
+        "title": "Quito Old Town",
+        "titleRu": "Старый Кито",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -0.22,
+          "longitude": -78.5125
+        }
+      },
+      {
+        "code": "13",
+        "title": "Gorée Island",
+        "titleRu": "Остров Горе",
+        "countryCode": "SN",
+        "coordinates": {
+          "latitude": 14.6667,
+          "longitude": -17.4
+        }
+      },
+      {
+        "code": "14",
+        "title": "Abu Simbel",
+        "titleRu": "Абу-Симбел",
+        "countryCode": "EG",
+        "coordinates": {
+          "latitude": 22.3372,
+          "longitude": 31.6258
+        }
+      },
+      {
+        "code": "15",
+        "title": "Dubrovnik Old Town",
+        "titleRu": "Старый Дубровник",
+        "countryCode": "HR",
+        "coordinates": {
+          "latitude": 42.6507,
+          "longitude": 18.0944
+        }
+      },
+      {
+        "code": "16",
+        "title": "Taj Mahal",
+        "titleRu": "Тадж-Махал",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 27.1751,
+          "longitude": 78.0421
+        }
+      },
+      {
+        "code": "17",
+        "title": "Agra Fort",
+        "titleRu": "Форт Агра",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 27.1795,
+          "longitude": 78.0211
+        }
+      },
+      {
+        "code": "18",
+        "title": "Historic Cairo",
+        "titleRu": "Исторический Каир",
+        "countryCode": "EG",
+        "coordinates": {
+          "latitude": 30.0459,
+          "longitude": 31.2243
+        }
+      },
+      {
+        "code": "19",
+        "title": "Auschwitz-Birkenau",
+        "titleRu": "Аушвиц-Биркенау",
+        "countryCode": "PL",
+        "coordinates": {
+          "latitude": 50.0343,
+          "longitude": 19.1784
+        }
+      },
+      {
+        "code": "20",
+        "title": "Grand Canyon",
+        "titleRu": "Гранд-Каньон",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 36.1069,
+          "longitude": -112.1129
+        }
+      },
+      {
+        "code": "21",
+        "title": "Great Wall of China",
+        "titleRu": "Великая Китайская стена",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 40.4319,
+          "longitude": 116.5704
+        }
+      },
+      {
+        "code": "22",
+        "title": "Forbidden City",
+        "titleRu": "Запретный город",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 39.9163,
+          "longitude": 116.3972
+        }
+      },
+      {
+        "code": "23",
+        "title": "Machu Picchu",
+        "titleRu": "Мачу-Пикчу",
+        "countryCode": "PE",
+        "coordinates": {
+          "latitude": -13.1631,
+          "longitude": -72.545
+        }
+      },
+      {
+        "code": "24",
+        "title": "Statue of Liberty",
+        "titleRu": "Статуя Свободы",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 40.6892,
+          "longitude": -74.0445
+        }
+      },
+      {
+        "code": "25",
+        "title": "Angkor Wat",
+        "titleRu": "Ангкор-Ват",
+        "countryCode": "KH",
+        "coordinates": {
+          "latitude": 13.4125,
+          "longitude": 103.867
+        }
+      },
+      {
+        "code": "26",
+        "title": "Venice and its Lagoon",
+        "titleRu": "Венеция и лагуна",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 45.4408,
+          "longitude": 12.3155
+        }
+      },
+      {
+        "code": "27",
+        "title": "Historic Centre of Florence",
+        "titleRu": "Исторический центр Флоренции",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 43.7696,
+          "longitude": 11.2558
+        }
+      },
+      {
+        "code": "28",
+        "title": "Stonehenge",
+        "titleRu": "Стоунхендж",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.1789,
+          "longitude": -1.8262
+        }
+      },
+      {
+        "code": "29",
+        "title": "Mont-Saint-Michel",
+        "titleRu": "Мон-Сен-Мишель",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.636,
+          "longitude": -1.5115
+        }
+      },
+      {
+        "code": "30",
+        "title": "Palace of Versailles",
+        "titleRu": "Версальский дворец",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 48.8049,
+          "longitude": 2.1204
+        }
+      },
+      {
+        "code": "31",
+        "title": "Alhambra",
+        "titleRu": "Альгамбра",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 37.1761,
+          "longitude": -3.5881
+        }
+      },
+      {
+        "code": "32",
+        "title": "Historic Centre of Rome",
+        "titleRu": "Исторический центр Рима",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.8986,
+          "longitude": 12.4769
+        }
+      },
+      {
+        "code": "33",
+        "title": "Petra",
+        "titleRu": "Петра",
+        "countryCode": "JO",
+        "coordinates": {
+          "latitude": 30.3285,
+          "longitude": 35.4444
+        }
+      },
+      {
+        "code": "34",
+        "title": "Old City of Jerusalem",
+        "titleRu": "Старый город Иерусалима",
+        "countryCode": "IL",
+        "coordinates": {
+          "latitude": 31.7767,
+          "longitude": 35.2345
+        }
+      },
+      {
+        "code": "35",
+        "title": "Serengeti National Park",
+        "titleRu": "Национальный парк Серенгети",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -2.3333,
+          "longitude": 34.8333
+        }
+      },
+      {
+        "code": "36",
+        "title": "Kilimanjaro National Park",
+        "titleRu": "Национальный парк Килиманджаро",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -3.0674,
+          "longitude": 37.3556
+        }
+      },
+      {
+        "code": "37",
+        "title": "Victoria Falls",
+        "titleRu": "Водопад Виктория",
+        "countryCode": "ZW",
+        "coordinates": {
+          "latitude": -17.9243,
+          "longitude": 25.8572
+        }
+      },
+      {
+        "code": "38",
+        "title": "Historic Centre of Prague",
+        "titleRu": "Исторический центр Праги",
+        "countryCode": "CZ",
+        "coordinates": {
+          "latitude": 50.0875,
+          "longitude": 14.4213
+        }
+      },
+      {
+        "code": "39",
+        "title": "Acropolis of Athens",
+        "titleRu": "Афинский Акрополь",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 37.9715,
+          "longitude": 23.7257
+        }
+      },
+      {
+        "code": "40",
+        "title": "Historic Istanbul",
+        "titleRu": "Исторический Стамбул",
+        "countryCode": "TR",
+        "coordinates": {
+          "latitude": 41.0082,
+          "longitude": 28.9784
+        }
+      },
+      {
+        "code": "41",
+        "title": "Hagia Sophia area",
+        "titleRu": "Район Айя-Софии",
+        "countryCode": "TR",
+        "coordinates": {
+          "latitude": 41.0086,
+          "longitude": 28.9802
+        }
+      },
+      {
+        "code": "42",
+        "title": "Hiroshima Peace Memorial",
+        "titleRu": "Мемориал мира в Хиросиме",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 34.3955,
+          "longitude": 132.4536
+        }
+      },
+      {
+        "code": "43",
+        "title": "Historic Kyoto",
+        "titleRu": "Исторический Киото",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.0116,
+          "longitude": 135.7681
+        }
+      },
+      {
+        "code": "44",
+        "title": "Rapa Nui (Easter Island)",
+        "titleRu": "Рапа-Нуи (о. Пасхи)",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -27.1127,
+          "longitude": -109.3497
+        }
+      },
+      {
+        "code": "45",
+        "title": "Ha Long Bay",
+        "titleRu": "Бухта Халонг",
+        "countryCode": "VN",
+        "coordinates": {
+          "latitude": 20.91,
+          "longitude": 107.1839
+        }
+      },
+      {
+        "code": "46",
+        "title": "Borobudur",
+        "titleRu": "Борободур",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -7.6079,
+          "longitude": 110.2038
+        }
+      },
+      {
+        "code": "47",
+        "title": "Komodo National Park",
+        "titleRu": "Национальный парк Комодо",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -8.5502,
+          "longitude": 119.4831
+        }
+      },
+      {
+        "code": "48",
+        "title": "Tower of London",
+        "titleRu": "Лондонский Тауэр",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 51.5081,
+          "longitude": -0.0759
+        }
+      },
+      {
+        "code": "49",
+        "title": "Historic Edinburgh",
+        "titleRu": "Исторический Эдинбург",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 55.9486,
+          "longitude": -3.1999
+        }
+      },
+      {
+        "code": "50",
+        "title": "Chichén Itzá",
+        "titleRu": "Чичен-Ица",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 20.6843,
+          "longitude": -88.5678
+        }
+      },
+      {
+        "code": "51",
+        "title": "Teotihuacan",
+        "titleRu": "Теотиуакан",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.6925,
+          "longitude": -98.8438
+        }
+      },
+      {
+        "code": "52",
+        "title": "Historic Oaxaca & Monte Albán",
+        "titleRu": "Оахака и Монте-Альбан",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 17.044,
+          "longitude": -96.7675
+        }
+      },
+      {
+        "code": "53",
+        "title": "Iguazu Falls",
+        "titleRu": "Водопады Игуасу",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -25.6953,
+          "longitude": -54.4367
+        }
+      },
+      {
+        "code": "54",
+        "title": "Historic Salvador de Bahia",
+        "titleRu": "Исторический Сальвадор-да-Баия",
+        "countryCode": "BR",
+        "coordinates": {
+          "latitude": -12.9711,
+          "longitude": -38.5108
+        }
+      },
+      {
+        "code": "55",
+        "title": "Kremlin and Red Square",
+        "titleRu": "Кремль и Красная площадь",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 55.7539,
+          "longitude": 37.6208
+        }
+      },
+      {
+        "code": "56",
+        "title": "Historic Saint Petersburg",
+        "titleRu": "Исторический Санкт-Петербург",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 59.934,
+          "longitude": 30.3351
+        }
+      },
+      {
+        "code": "57",
+        "title": "Lake Baikal",
+        "titleRu": "Озеро Байкал",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 53.5587,
+          "longitude": 108.165
+        }
+      },
+      {
+        "code": "58",
+        "title": "Sydney Opera House",
+        "titleRu": "Сиднейский оперный театр",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -33.8568,
+          "longitude": 151.2153
+        }
+      },
+      {
+        "code": "59",
+        "title": "Uluru-Kata Tjuta",
+        "titleRu": "Улуру–Ката-Тьюта",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -25.3444,
+          "longitude": 131.0369
+        }
+      },
+      {
+        "code": "60",
+        "title": "Tongariro National Park",
+        "titleRu": "Национальный парк Тонгариро",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -39.2,
+          "longitude": 175.6
+        }
+      },
+      {
+        "code": "61",
+        "title": "Historic Centre of Vienna",
+        "titleRu": "Исторический центр Вены",
+        "countryCode": "AT",
+        "coordinates": {
+          "latitude": 48.2082,
+          "longitude": 16.3738
+        }
+      },
+      {
+        "code": "62",
+        "title": "Schönbrunn Palace",
+        "titleRu": "Дворец Шёнбрунн",
+        "countryCode": "AT",
+        "coordinates": {
+          "latitude": 48.1845,
+          "longitude": 16.3122
+        }
+      },
+      {
+        "code": "63",
+        "title": "Swiss Alps Jungfrau-Aletsch",
+        "titleRu": "Юнгфрау — Алетч",
+        "countryCode": "CH",
+        "coordinates": {
+          "latitude": 46.5387,
+          "longitude": 7.9838
+        }
+      },
+      {
+        "code": "64",
+        "title": "Historic Centre of Bruges",
+        "titleRu": "Исторический центр Брюгге",
+        "countryCode": "BE",
+        "coordinates": {
+          "latitude": 51.2093,
+          "longitude": 3.2247
+        }
+      },
+      {
+        "code": "65",
+        "title": "Plitvice Lakes",
+        "titleRu": "Плитвицкие озёра",
+        "countryCode": "HR",
+        "coordinates": {
+          "latitude": 44.8654,
+          "longitude": 15.582
+        }
+      },
+      {
+        "code": "66",
+        "title": "Meteora",
+        "titleRu": "Метеоры",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 39.7217,
+          "longitude": 21.6306
+        }
+      },
+      {
+        "code": "67",
+        "title": "Delphi",
+        "titleRu": "Дельфы",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 38.4824,
+          "longitude": 22.5013
+        }
+      },
+      {
+        "code": "68",
+        "title": "Colosseum",
+        "titleRu": "Колизей",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 41.8902,
+          "longitude": 12.4922
+        }
+      },
+      {
+        "code": "69",
+        "title": "Pompeii",
+        "titleRu": "Помпеи",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 40.7508,
+          "longitude": 14.4869
+        }
+      },
+      {
+        "code": "70",
+        "title": "Cinque Terre",
+        "titleRu": "Чинкве-Терре",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 44.1461,
+          "longitude": 9.6439
+        }
+      },
+      {
+        "code": "71",
+        "title": "Historic Centre of Lisbon",
+        "titleRu": "Исторический центр Лиссабона",
+        "countryCode": "PT",
+        "coordinates": {
+          "latitude": 38.7141,
+          "longitude": -9.1398
+        }
+      },
+      {
+        "code": "72",
+        "title": "Sintra",
+        "titleRu": "Синтра",
+        "countryCode": "PT",
+        "coordinates": {
+          "latitude": 38.7974,
+          "longitude": -9.3904
+        }
+      },
+      {
+        "code": "73",
+        "title": "Historic Centre of Córdoba",
+        "titleRu": "Исторический центр Кордовы",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 37.8796,
+          "longitude": -4.7796
+        }
+      },
+      {
+        "code": "74",
+        "title": "Sagrada Família area",
+        "titleRu": "Район Саграда Фамилия",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 41.4036,
+          "longitude": 2.1744
+        }
+      },
+      {
+        "code": "75",
+        "title": "Brú na Bóinne (Newgrange)",
+        "titleRu": "Бру-на-Бойн",
+        "countryCode": "IE",
+        "coordinates": {
+          "latitude": 53.6947,
+          "longitude": -6.4753
+        }
+      },
+      {
+        "code": "76",
+        "title": "Giant's Causeway",
+        "titleRu": "Тропа Великана",
+        "countryCode": "GB",
+        "coordinates": {
+          "latitude": 55.2408,
+          "longitude": -6.5116
+        }
+      },
+      {
+        "code": "77",
+        "title": "Château de Chambord",
+        "titleRu": "Замок Шамбор",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 47.6161,
+          "longitude": 1.517
+        }
+      },
+      {
+        "code": "78",
+        "title": "Pont du Gard",
+        "titleRu": "Пон-дю-Гар",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 43.9468,
+          "longitude": 4.5348
+        }
+      },
+      {
+        "code": "79",
+        "title": "Historic Carcassonne",
+        "titleRu": "Исторический Каркассон",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": 43.2065,
+          "longitude": 2.3634
+        }
+      },
+      {
+        "code": "80",
+        "title": "Wartburg Castle",
+        "titleRu": "Замок Вартбург",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 50.9667,
+          "longitude": 10.3062
+        }
+      },
+      {
+        "code": "81",
+        "title": "Cologne Cathedral",
+        "titleRu": "Кёльнский собор",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 50.9413,
+          "longitude": 6.958
+        }
+      },
+      {
+        "code": "82",
+        "title": "Neuschwanstein area (Wieskirche)",
+        "titleRu": "Визкирхе (район Нойшванштайна)",
+        "countryCode": "DE",
+        "coordinates": {
+          "latitude": 47.6809,
+          "longitude": 10.9001
+        }
+      },
+      {
+        "code": "83",
+        "title": "Old City of Bern",
+        "titleRu": "Старый Берн",
+        "countryCode": "CH",
+        "coordinates": {
+          "latitude": 46.9479,
+          "longitude": 7.4446
+        }
+      },
+      {
+        "code": "84",
+        "title": "Mount Fuji",
+        "titleRu": "Гора Фудзи",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.3606,
+          "longitude": 138.7274
+        }
+      },
+      {
+        "code": "85",
+        "title": "Imperial Palaces of Kyoto",
+        "titleRu": "Императорские дворцы Киото",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.0254,
+          "longitude": 135.762
+        }
+      },
+      {
+        "code": "86",
+        "title": "Terracotta Army",
+        "titleRu": "Терракотовая армия",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 34.3848,
+          "longitude": 109.2785
+        }
+      },
+      {
+        "code": "87",
+        "title": "Historic Lijiang",
+        "titleRu": "Исторический Лицзян",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 26.8721,
+          "longitude": 100.236
+        }
+      },
+      {
+        "code": "88",
+        "title": "Potala Palace",
+        "titleRu": "Дворец Потала",
+        "countryCode": "CN",
+        "coordinates": {
+          "latitude": 29.6577,
+          "longitude": 91.1172
+        }
+      },
+      {
+        "code": "89",
+        "title": "Hampi",
+        "titleRu": "Хампи",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 15.335,
+          "longitude": 76.462
+        }
+      },
+      {
+        "code": "90",
+        "title": "Jaipur City",
+        "titleRu": "Джайпур",
+        "countryCode": "IN",
+        "coordinates": {
+          "latitude": 26.9124,
+          "longitude": 75.7873
+        }
+      },
+      {
+        "code": "91",
+        "title": "Sigiriya",
+        "titleRu": "Сигирия",
+        "countryCode": "LK",
+        "coordinates": {
+          "latitude": 7.957,
+          "longitude": 80.7603
+        }
+      },
+      {
+        "code": "92",
+        "title": "Luang Prabang",
+        "titleRu": "Луангпхабанг",
+        "countryCode": "LA",
+        "coordinates": {
+          "latitude": 19.8856,
+          "longitude": 102.135
+        }
+      },
+      {
+        "code": "93",
+        "title": "Ayutthaya",
+        "titleRu": "Аюттхая",
+        "countryCode": "TH",
+        "coordinates": {
+          "latitude": 14.3569,
+          "longitude": 100.5682
+        }
+      },
+      {
+        "code": "94",
+        "title": "Bagan",
+        "titleRu": "Баган",
+        "countryCode": "MM",
+        "coordinates": {
+          "latitude": 21.1717,
+          "longitude": 94.8585
+        }
+      },
+      {
+        "code": "95",
+        "title": "Sukhothai",
+        "titleRu": "Сукхотхай",
+        "countryCode": "TH",
+        "coordinates": {
+          "latitude": 17.0147,
+          "longitude": 99.7026
+        }
+      },
+      {
+        "code": "96",
+        "title": "Hội An Ancient Town",
+        "titleRu": "Хойан",
+        "countryCode": "VN",
+        "coordinates": {
+          "latitude": 15.8801,
+          "longitude": 108.338
+        }
+      },
+      {
+        "code": "97",
+        "title": "Robben Island",
+        "titleRu": "Остров Роббен",
+        "countryCode": "ZA",
+        "coordinates": {
+          "latitude": -33.8076,
+          "longitude": 18.3712
+        }
+      },
+      {
+        "code": "98",
+        "title": "Medina of Fez",
+        "titleRu": "Медина Феса",
+        "countryCode": "MA",
+        "coordinates": {
+          "latitude": 34.063,
+          "longitude": -4.9783
+        }
+      },
+      {
+        "code": "99",
+        "title": "Timbuktu",
+        "titleRu": "Тимбукту",
+        "countryCode": "ML",
+        "coordinates": {
+          "latitude": 16.7735,
+          "longitude": -3.0074
+        }
+      },
+      {
+        "code": "100",
+        "title": "Great Zimbabwe",
+        "titleRu": "Большой Зимбабве",
+        "countryCode": "ZW",
+        "coordinates": {
+          "latitude": -20.2675,
+          "longitude": 30.9339
+        }
+      }
+    ]
+  },
+  {
+    "id": "world_volcanoes",
+    "title": "World Volcanoes",
+    "titleRu": "Мировые вулканы",
+    "description": "70 famous volcanoes, from the highest to the most iconic.",
+    "descriptionRu": "70 знаменитых вулканов мира — от самых высоких до самых известных.",
+    "iconEmoji": "🌋",
+    "inputType": "age",
+    "codePrefix": "",
+    "items": [
+      {
+        "code": "1",
+        "title": "Ojos del Salado",
+        "titleRu": "Охос-дель-Саладо",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -27.1092,
+          "longitude": -68.5414
+        }
+      },
+      {
+        "code": "2",
+        "title": "Llullaillaco",
+        "titleRu": "Льюльяйльяко",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -24.7197,
+          "longitude": -68.5369
+        }
+      },
+      {
+        "code": "3",
+        "title": "Tipas",
+        "titleRu": "Типас",
+        "countryCode": "AR",
+        "coordinates": {
+          "latitude": -27.2,
+          "longitude": -68.55
+        }
+      },
+      {
+        "code": "4",
+        "title": "Cotopaxi",
+        "titleRu": "Котопахи",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -0.6842,
+          "longitude": -78.4374
+        }
+      },
+      {
+        "code": "5",
+        "title": "Kilimanjaro",
+        "titleRu": "Килиманджаро",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -3.0674,
+          "longitude": 37.3556
+        }
+      },
+      {
+        "code": "6",
+        "title": "Mount Elbrus",
+        "titleRu": "Эльбрус",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 43.3499,
+          "longitude": 42.4453
+        }
+      },
+      {
+        "code": "7",
+        "title": "Mount Damavand",
+        "titleRu": "Демавенд",
+        "countryCode": "IR",
+        "coordinates": {
+          "latitude": 35.9515,
+          "longitude": 52.1095
+        }
+      },
+      {
+        "code": "8",
+        "title": "Pico de Orizaba",
+        "titleRu": "Пик Орисаба",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.0303,
+          "longitude": -97.2683
+        }
+      },
+      {
+        "code": "9",
+        "title": "Mount Rainier",
+        "titleRu": "Маунт-Рейнир",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 46.8523,
+          "longitude": -121.7603
+        }
+      },
+      {
+        "code": "10",
+        "title": "Mount Erebus",
+        "titleRu": "Эребус",
+        "countryCode": "AQ",
+        "coordinates": {
+          "latitude": -77.5305,
+          "longitude": 167.1571
+        }
+      },
+      {
+        "code": "11",
+        "title": "Mount Fuji",
+        "titleRu": "Фудзияма",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 35.3606,
+          "longitude": 138.7274
+        }
+      },
+      {
+        "code": "12",
+        "title": "Mount Etna",
+        "titleRu": "Этна",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 37.751,
+          "longitude": 14.9934
+        }
+      },
+      {
+        "code": "13",
+        "title": "Mount Vesuvius",
+        "titleRu": "Везувий",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 40.821,
+          "longitude": 14.4264
+        }
+      },
+      {
+        "code": "14",
+        "title": "Piton de la Fournaise",
+        "titleRu": "Питон-де-ла-Фурнез",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": -21.2494,
+          "longitude": 55.7142
+        }
+      },
+      {
+        "code": "15",
+        "title": "Eyjafjallajökull",
+        "titleRu": "Эйяфьядлайёкюдль",
+        "countryCode": "IS",
+        "coordinates": {
+          "latitude": 63.633,
+          "longitude": -19.6218
+        }
+      },
+      {
+        "code": "16",
+        "title": "Mount St. Helens",
+        "titleRu": "Сент-Хеленс",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 46.1914,
+          "longitude": -122.1956
+        }
+      },
+      {
+        "code": "17",
+        "title": "Popocatépetl",
+        "titleRu": "Попокатепетль",
+        "countryCode": "MX",
+        "coordinates": {
+          "latitude": 19.0225,
+          "longitude": -98.6278
+        }
+      },
+      {
+        "code": "18",
+        "title": "Mount Pinatubo",
+        "titleRu": "Пинатубо",
+        "countryCode": "PH",
+        "coordinates": {
+          "latitude": 15.1429,
+          "longitude": 120.3496
+        }
+      },
+      {
+        "code": "19",
+        "title": "Krakatoa",
+        "titleRu": "Кракатау",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -6.1021,
+          "longitude": 105.4229
+        }
+      },
+      {
+        "code": "20",
+        "title": "Tambora",
+        "titleRu": "Тамбора",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -8.2489,
+          "longitude": 118.0004
+        }
+      },
+      {
+        "code": "21",
+        "title": "Mauna Loa",
+        "titleRu": "Мауна-Лоа",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 19.4756,
+          "longitude": -155.608
+        }
+      },
+      {
+        "code": "22",
+        "title": "Kīlauea",
+        "titleRu": "Килауэа",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 19.4069,
+          "longitude": -155.2834
+        }
+      },
+      {
+        "code": "23",
+        "title": "Mauna Kea",
+        "titleRu": "Мауна-Кеа",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 19.8207,
+          "longitude": -155.4681
+        }
+      },
+      {
+        "code": "24",
+        "title": "Stromboli",
+        "titleRu": "Стромболи",
+        "countryCode": "IT",
+        "coordinates": {
+          "latitude": 38.789,
+          "longitude": 15.2132
+        }
+      },
+      {
+        "code": "25",
+        "title": "Santorini (Thera)",
+        "titleRu": "Санторини (Тера)",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 36.4042,
+          "longitude": 25.3961
+        }
+      },
+      {
+        "code": "26",
+        "title": "Hekla",
+        "titleRu": "Гекла",
+        "countryCode": "IS",
+        "coordinates": {
+          "latitude": 63.9833,
+          "longitude": -19.6667
+        }
+      },
+      {
+        "code": "27",
+        "title": "Katla",
+        "titleRu": "Катла",
+        "countryCode": "IS",
+        "coordinates": {
+          "latitude": 63.633,
+          "longitude": -19.0833
+        }
+      },
+      {
+        "code": "28",
+        "title": "Teide",
+        "titleRu": "Тейде",
+        "countryCode": "ES",
+        "coordinates": {
+          "latitude": 28.2723,
+          "longitude": -16.6424
+        }
+      },
+      {
+        "code": "29",
+        "title": "Mount Olympus (Mars namesake)",
+        "titleRu": "Олимп (Греция)",
+        "countryCode": "GR",
+        "coordinates": {
+          "latitude": 40.0859,
+          "longitude": 22.3584
+        }
+      },
+      {
+        "code": "30",
+        "title": "Merapi",
+        "titleRu": "Мерапи",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -7.5407,
+          "longitude": 110.4457
+        }
+      },
+      {
+        "code": "31",
+        "title": "Semeru",
+        "titleRu": "Семеру",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -8.108,
+          "longitude": 112.922
+        }
+      },
+      {
+        "code": "32",
+        "title": "Bromo",
+        "titleRu": "Бромо",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -7.9425,
+          "longitude": 112.953
+        }
+      },
+      {
+        "code": "33",
+        "title": "Mount Agung",
+        "titleRu": "Агунг",
+        "countryCode": "ID",
+        "coordinates": {
+          "latitude": -8.3433,
+          "longitude": 115.5078
+        }
+      },
+      {
+        "code": "34",
+        "title": "Taal Volcano",
+        "titleRu": "Тааль",
+        "countryCode": "PH",
+        "coordinates": {
+          "latitude": 14.0113,
+          "longitude": 120.9979
+        }
+      },
+      {
+        "code": "35",
+        "title": "Mayon Volcano",
+        "titleRu": "Майон",
+        "countryCode": "PH",
+        "coordinates": {
+          "latitude": 13.2575,
+          "longitude": 123.6856
+        }
+      },
+      {
+        "code": "36",
+        "title": "Mount Sakurajima",
+        "titleRu": "Сакурадзима",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 31.5855,
+          "longitude": 130.6577
+        }
+      },
+      {
+        "code": "37",
+        "title": "Mount Aso",
+        "titleRu": "Асо",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 32.8842,
+          "longitude": 131.1039
+        }
+      },
+      {
+        "code": "38",
+        "title": "Mount Unzen",
+        "titleRu": "Ундзэн",
+        "countryCode": "JP",
+        "coordinates": {
+          "latitude": 32.761,
+          "longitude": 130.2936
+        }
+      },
+      {
+        "code": "39",
+        "title": "Klyuchevskaya Sopka",
+        "titleRu": "Ключевская Сопка",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 56.0563,
+          "longitude": 160.6422
+        }
+      },
+      {
+        "code": "40",
+        "title": "Kamchatka Volcanoes",
+        "titleRu": "Вулканы Камчатки",
+        "countryCode": "RU",
+        "coordinates": {
+          "latitude": 54.7562,
+          "longitude": 160.5322
+        }
+      },
+      {
+        "code": "41",
+        "title": "Mount Ararat",
+        "titleRu": "Арарат",
+        "countryCode": "TR",
+        "coordinates": {
+          "latitude": 39.7019,
+          "longitude": 44.2988
+        }
+      },
+      {
+        "code": "42",
+        "title": "Nevado del Ruiz",
+        "titleRu": "Невадо-дель-Руис",
+        "countryCode": "CO",
+        "coordinates": {
+          "latitude": 4.8908,
+          "longitude": -75.3214
+        }
+      },
+      {
+        "code": "43",
+        "title": "Galeras",
+        "titleRu": "Галерас",
+        "countryCode": "CO",
+        "coordinates": {
+          "latitude": 1.2239,
+          "longitude": -77.3583
+        }
+      },
+      {
+        "code": "44",
+        "title": "Chimborazo",
+        "titleRu": "Чимборасо",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -1.4692,
+          "longitude": -78.8172
+        }
+      },
+      {
+        "code": "45",
+        "title": "Villarrica",
+        "titleRu": "Вильяррика",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -39.4222,
+          "longitude": -71.9397
+        }
+      },
+      {
+        "code": "46",
+        "title": "Osorno",
+        "titleRu": "Осорно",
+        "countryCode": "CL",
+        "coordinates": {
+          "latitude": -41.0989,
+          "longitude": -72.4931
+        }
+      },
+      {
+        "code": "47",
+        "title": "Tungurahua",
+        "titleRu": "Тунгурауа",
+        "countryCode": "EC",
+        "coordinates": {
+          "latitude": -1.467,
+          "longitude": -78.442
+        }
+      },
+      {
+        "code": "48",
+        "title": "Mount Cameroon",
+        "titleRu": "Камерун",
+        "countryCode": "CM",
+        "coordinates": {
+          "latitude": 4.2034,
+          "longitude": 9.1706
+        }
+      },
+      {
+        "code": "49",
+        "title": "Ol Doinyo Lengai",
+        "titleRu": "Ол-Доиньо-Ленгаи",
+        "countryCode": "TZ",
+        "coordinates": {
+          "latitude": -2.7642,
+          "longitude": 35.9025
+        }
+      },
+      {
+        "code": "50",
+        "title": "Nyiragongo",
+        "titleRu": "Ньирагонго",
+        "countryCode": "CD",
+        "coordinates": {
+          "latitude": -1.52,
+          "longitude": 29.25
+        }
+      },
+      {
+        "code": "51",
+        "title": "Mount Kenya",
+        "titleRu": "Кения",
+        "countryCode": "KE",
+        "coordinates": {
+          "latitude": -0.1521,
+          "longitude": 37.3084
+        }
+      },
+      {
+        "code": "52",
+        "title": "Piton des Neiges",
+        "titleRu": "Питон-де-Неж",
+        "countryCode": "FR",
+        "coordinates": {
+          "latitude": -21.0992,
+          "longitude": 55.4785
+        }
+      },
+      {
+        "code": "53",
+        "title": "Mount Shasta",
+        "titleRu": "Шаста",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 41.4092,
+          "longitude": -122.1949
+        }
+      },
+      {
+        "code": "54",
+        "title": "Mount Hood",
+        "titleRu": "Худ",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 45.3735,
+          "longitude": -121.6959
+        }
+      },
+      {
+        "code": "55",
+        "title": "Mount Adams",
+        "titleRu": "Адамс",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 46.2024,
+          "longitude": -121.4909
+        }
+      },
+      {
+        "code": "56",
+        "title": "Mount Baker",
+        "titleRu": "Бейкер",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 48.7768,
+          "longitude": -121.8145
+        }
+      },
+      {
+        "code": "57",
+        "title": "Lassen Peak",
+        "titleRu": "Лассен-Пик",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 40.4882,
+          "longitude": -121.505
+        }
+      },
+      {
+        "code": "58",
+        "title": "Crater Lake (Mount Mazama)",
+        "titleRu": "Кратерное озеро (Мазама)",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 42.9446,
+          "longitude": -122.109
+        }
+      },
+      {
+        "code": "59",
+        "title": "Yellowstone Caldera",
+        "titleRu": "Йеллоустонская кальдера",
+        "countryCode": "US",
+        "coordinates": {
+          "latitude": 44.428,
+          "longitude": -110.5885
+        }
+      },
+      {
+        "code": "60",
+        "title": "Mount Ruapehu",
+        "titleRu": "Руапеху",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -39.2814,
+          "longitude": 175.568
+        }
+      },
+      {
+        "code": "61",
+        "title": "Mount Taranaki",
+        "titleRu": "Таранаки",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -39.2967,
+          "longitude": 174.0636
+        }
+      },
+      {
+        "code": "62",
+        "title": "White Island",
+        "titleRu": "Уайт-Айленд",
+        "countryCode": "NZ",
+        "coordinates": {
+          "latitude": -37.52,
+          "longitude": 177.18
+        }
+      },
+      {
+        "code": "63",
+        "title": "Heard Island",
+        "titleRu": "Остров Хёрд",
+        "countryCode": "AU",
+        "coordinates": {
+          "latitude": -53.106,
+          "longitude": 73.513
+        }
+      },
+      {
+        "code": "64",
+        "title": "Deception Island",
+        "titleRu": "Дисепшен",
+        "countryCode": "AQ",
+        "coordinates": {
+          "latitude": -62.97,
+          "longitude": -60.65
+        }
+      },
+      {
+        "code": "65",
+        "title": "Mount Pelée",
+        "titleRu": "Мон-Пеле",
+        "countryCode": "MQ",
+        "coordinates": {
+          "latitude": 14.8124,
+          "longitude": -61.1653
+        }
+      },
+      {
+        "code": "66",
+        "title": "Soufrière Hills",
+        "titleRu": "Суфриер-Хилс",
+        "countryCode": "MS",
+        "coordinates": {
+          "latitude": 16.7167,
+          "longitude": -62.1833
+        }
+      },
+      {
+        "code": "67",
+        "title": "La Soufrière",
+        "titleRu": "Суфриер",
+        "countryCode": "GP",
+        "coordinates": {
+          "latitude": 16.0447,
+          "longitude": -61.6642
+        }
+      },
+      {
+        "code": "68",
+        "title": "Arenal Volcano",
+        "titleRu": "Ареналь",
+        "countryCode": "CR",
+        "coordinates": {
+          "latitude": 10.4626,
+          "longitude": -84.7033
+        }
+      },
+      {
+        "code": "69",
+        "title": "Pacaya",
+        "titleRu": "Пакая",
+        "countryCode": "GT",
+        "coordinates": {
+          "latitude": 14.3814,
+          "longitude": -90.6014
+        }
+      },
+      {
+        "code": "70",
+        "title": "Tajumulco",
+        "titleRu": "Тахумулько",
+        "countryCode": "GT",
+        "coordinates": {
+          "latitude": 15.0342,
+          "longitude": -91.9033
+        }
+      }
+    ]
   }
 ]
