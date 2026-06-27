@@ -260,6 +260,33 @@ a:hover { color: var(--teal); }
 
 .card h2:first-of-type { margin-top: 0; }
 
+.card h3 {
+  margin: 22px 0 8px;
+  font-size: 0.98rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+@media (prefers-color-scheme: dark) {
+  .card h3 { color: #e2e8f0; }
+}
+
+/* Legal page table of contents */
+.legal-toc {
+  margin: 8px 0 24px;
+  padding: 18px 20px;
+  list-style: none;
+  border-radius: var(--radius-sm);
+  background: linear-gradient(135deg, rgba(37, 99, 235, 0.06), rgba(46, 196, 182, 0.06));
+  border: 1px solid var(--border);
+}
+
+.legal-toc li { margin-bottom: 6px; }
+
+.legal-toc li:last-child { margin-bottom: 0; }
+
+.legal-toc a { font-weight: 600; }
+
 .card p { margin: 0 0 14px; }
 
 .card ul,
